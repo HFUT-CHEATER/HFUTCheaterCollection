@@ -107,7 +107,7 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 微电子学院 [朱文拿](https://wdzxy.hfut.edu.cn/2020/1230/c11546a249580/page.htm)（包庇微电子学院集成电路多人等）
 
-计算机与信息学院 [张海林](https://ci.hfut.edu.cn/info/1038/3722.htm)、[薛原](http://faculty.hfut.edu.cn/xueyuan/zh_CN/index/254961/list/)、黄鹏飞、陈田（包庇徐子航等人等）
+计算机与信息学院 [张海林](https://ci.hfut.edu.cn/info/1038/3722.htm)、[薛原](http://faculty.hfut.edu.cn/xueyuan/zh_CN/index/254961/list/)、黄鹏飞、[陈田](http://faculty.hfut.edu.cn/ct/zh_CN/index.htm)（包庇徐子航等人等）
 
 
 # 更新及其它说明 
