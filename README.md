@@ -1,3 +1,4 @@
+- [夏令营期间使用说明](#夏令营期间使用说明)
 - [基本信息](#基本信息)
 - [揭秘合工大挑战杯——一场团委自导自演的贪污、腐败、教师基金项目挪用荒诞闹剧](#揭秘合工大挑战杯一场团委自导自演的贪污腐败教师基金项目挪用荒诞闹剧)
   - [答：不是祖传项目拿不了奖捏](#答不是祖传项目拿不了奖捏)
@@ -73,6 +74,496 @@
   - [三下乡已经沦为公款旅游报销的手段](#三下乡已经沦为公款旅游报销的手段)
   - [宣城校区电气学院多次包庇作弊、辅导员挪用经费](#宣城校区电气学院多次包庇作弊辅导员挪用经费)
 
+
+# 夏令营期间使用说明
+
+非合肥工业大学（以下记为合工大）的夏令营申报学生，自行核对相关活动通知信息目录(下方三角按钮展开目录)，及时联系相关研究院、高校夏令营联系人
+
+<details>
+<summary>目录</summary>
+1.上海科技大学生命科学与技术学院2024年大学生夏令营、暑期班活动通知 （申请解析）
+https://slst.shanghaitech.edu.cn/2024/0306/c319a1089941/page.htm
+
+2.香港中文大学（深圳）数据科学学院2024年夏令营Mini Camp 2024年3月10日开启申请（申请解析）
+https://sds.cuhk.edu.cn/article/1635
+
+3.2025年北京大学数学学科研究生摸底考试通知（申请解析）
+https://www.math.pku.edu.cn/zygg/156982.htm
+
+4.中国科学院自动化研究所2024年“人工智能菁英班”项目申报通知（申请解析）
+http://www.ia.cas.cn/yjsjy/zs/sszs/202403/t20240313_6965694.html
+
+5.清华大学统计学研究中心2024年优秀大学生统计与数据科学交流会（优秀大学生夏令营）招生简章（申请解析）
+http://www.stat.tsinghua.edu.cn/page/zsxx/xlybm/
+
+6.北京大学生命科学联合中心（北大方面）2024年暑期培训班招生简章（申请解析）
+https://mp.weixin.qq.com/s/AJhP_J4a8-q-lQ-X9ByXcg
+
+7.清华大学苏世民书院2025级招生简章
+https://www.sc.tsinghua.edu.cn/zs/zsjz.htm
+
+8.中国科学院古脊椎动物与古人类研究所分子古生物学实验室（付巧妹研究员课题组）2024年暑期夏令营课程学员招募（第一轮） （申请解析）
+http://www.ivpp.ac.cn/tzgg/202403/t20240321_7047807.html
+
+9.复旦大学分子合成与识别科学中心夏令营2024年报名通知
+https://rcmrs.fudan.edu.cn/61/59/c25962a483673/page.htm
+
+10.中国科学院数学与系统科学研究院关于2025级推荐免试研究生选拔工作的通知（申请解析）
+http://www.amss.ac.cn/yjsjy/zxxx/202403/t20240327_6966567.html
+
+11.北京大学统计科学中心2024年夏令营3月28日开放申请（申请解析）
+https://mp.weixin.qq.com/s/owpMEt93TrW-6cbdY7SoqA
+
+12.清华大学数学科学系2024年全国优秀大学生夏令营通知（申请解析）
+https://math.tsinghua.edu.cn/info/1134/2363.htm
+
+13.清华大学求真书院 2024 年全国优秀大学生夏令营通知
+https://qzc.tsinghua.edu.cn/info/1018/5573.htm
+
+14.西湖大学生命科学学院2024年夏令营公告 （申请解析）
+https://www.westlake.edu.cn/admi ... 0240401_38241.shtml
+
+15.上海交通大学密西根学院2024年“科研见习项目”报名
+https://www.ji.sjtu.edu.cn/cn/pr ... /2024-04-03/144784/
+
+16.南科大统计与数据科学系2024年全国优秀大学生夏令营预报名通知（申请解析）
+https://stat-ds.sustech.edu.cn/notice/335
+
+17.中国科学院空天信息创新研究院2024年“空天信息技术”春令营招生简章
+https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A
+
+18.2024清华大学建筑学院优秀大学生夏令营报名通知
+https://mp.weixin.qq.com/s/y--kPSmq2GIvyZb2KTaadA
+
+19.2024年中国科学技术大学MIRA Lab 2024保研招生简章
+https://mp.weixin.qq.com/s/Eegp_MA1cIyjsT4TQr3j6Q
+
+20.南京大学LAMDA招收2025年秋季入学研究生说明
+http://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html
+
+21.南京大学计算机科学与技术系2024年本科生开放日报名通知（申请解析）
+https://cs.nju.edu.cn/53/55/c1702a676693/page.htm
+
+22.2024年中国科学院生物与化学交叉研究中心暑期夏令营报名通知（申请解析）
+http://www.ircbc.cn/list.do?articleType_id=1188
+
+23.中国科学院上海营养与健康研究所2024年大学生夏令营暨2025级硕士研究生推免初选报名通知
+https://sedu.sinh.ac.cn/news.php?id=452
+
+24.南方科技大学数学系2024年优秀大学生夏令营预报名通知
+https://math.sustech.edu.cn/graduate_enrollment/12990
+
+25.中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）暑期学校2024年招生
+http://www.cebsit.cas.cn/yjs/zsg ... 240409_7084226.html
+
+26.西湖大学工学院2024年夏令营公告
+https://www.westlake.edu.cn/admi ... 0240410_39140.shtml
+
+27.2024年北京大学物理学院“大气与海洋科学优秀大学生夏令营”报名通知（申请解析）
+https://www.phy.pku.edu.cn/info/1018/9995.htm
+
+28.南方科技大学地球与空间科学系2024年全国优秀大学生夏令营预报名通知
+https://ess.sustech.edu.cn/New-detail-id-935.html
+
+29.清华大学建筑环境与能源应用工程专业2024年全国优秀大学生夏令营
+https://mp.weixin.qq.com/s/Es6PO5qg0QibdgWaHU-T2w
+
+30.浙江大学良渚实验室2024年度优秀大学生夏令营招募
+http://liangzhulab.zju.edu.cn/in ... ow&catid=63&id=1444
+
+31.西湖大学理学院2024年数理夏令营公告
+https://www.westlake.edu.cn/admi ... 0240412_39193.shtml
+
+32.西湖大学理学院化学系2024年夏令营公告 （申请解析）
+https://www.westlake.edu.cn/admi ... 0240412_39205.shtml
+
+33.昌平实验室2024年生命科学与前沿技术夏令营简章（申请解析）
+https://cpl.ac.cn/join_us/educat ... ec733a2ee0005.shtml
+
+34.中国科学技术大学量子物理和量子信息研究部招生通知 （申请解析）
+https://quantum.ustc.edu.cn/web/index.php/node/762
+
+35.中国科学院分子植物科学卓越创新中心2024年“探索生命的多样性”暑期学校暨2025级推免生报名须知
+http://www.sippe.ac.cn/jypy/yjsp ... 240412_7090952.html
+
+36.上海交通大学物理学科2025级研究生招生夏令营预通知 （申请解析）
+https://www.physics.sjtu.edu.cn/index_notice/4492.html
+
+37.上海交通大学人工智能与微结构实验室招收2024-2025年AI for Science 方向硕士生和博士生（免考试）
+https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ
+
+38.中国人民大学高瓴人工智能学院AI-Engine实验室招生
+https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg
+
+39.中国海洋大学未来海洋学院第六期学员选拔方案
+http://afo.ouc.edu.cn/2024/0403/c17276a458502/page.htm
+
+40.2024年南京大学建筑与城市规划学院优秀大学生夏令营通知
+https://arch.nju.edu.cn/rcpy/yjs/pyfa/20240415/i264040.html
+
+41.北京大学未来技术学院关于举办 “2024年全国优秀大学生夏令营” 活动的通知
+https://future.pku.edu.cn/xwzk/4 ... 22acf89f9d39d87.htm
+
+42.中国科学院上海有机化学研究所2024年大学生暑期夏令营营员招募通知（申请解析）
+http://www.sioc.ac.cn/zs/202404/t20240416_7103229.html
+
+43.2024年浙江大学脑科学与脑医学学院全国优秀大学生暑期夏令营
+http://www.neuroscience.zju.edu. ... 66a2902185/page.htm
+
+44.2024年北京大学材料科学与工程学院“全国优秀大学生夏令营”活动通知 （申请解析）
+http://www.mse.pku.edu.cn/info/1013/3333.htm
+
+45.上海交通大学人工智能学院张林峰课题组招收2025届硕士与博士研究生
+http://www.zhanglinfeng.tech/
+
+46.2024年哈尔滨工业大学（深圳）计算机科学与技术学院陈科海老师招生
+https://faculty.hitsz.edu.cn/chenkehai
+
+47.西安交通大学电气学院荣命哲教授课题组面向2025届本科毕业生招收推免研究生
+https://mp.weixin.qq.com/s/VzoVGRD5q7Ty6nNGPMENDA
+
+48.清华大学能源环境经济研究所2024年度研究生项目招生工作正式启动
+http://www.3e.tsinghua.edu.cn/cn/article/434
+
+49.清华大学神经调控国家工程研究中心暑期夏令营活动通知
+https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw
+
+50.2024中国科学院上海硅酸盐研究所“下一站，硅所”大学生夏令营报名正式开始
+https://mp.weixin.qq.com/s/Or9jyIMWYhVVXwPpjOAong
+
+51.2024年南方科技大学公共卫生及应急管理学院夏令营预通知
+https://sph.sustech.edu.cn/news/detail/240.html
+
+52.电子科大基础与前沿研究院2024年第九届“基础与前沿科学” 全国优秀大学生暑期夏令营预报名通知
+https://www.iffs.uestc.edu.cn/info/1049/4761.htm
+
+53.“清华大学2024年生命科学、基础医学与药学夏令营”通知（申请解析）
+http://www.cls.edu.cn/Academicactivities/notices/index6281.shtml
+
+54.清华大学化学系关于举办2024年“全国优秀大学生夏令营”活动的通知（申请解析）
+https://www.chem.tsinghua.edu.cn/info/1090/3416.htm
+
+55.西湖大学2024年暑期科研实习公告
+https://www.westlake.edu.cn/admi ... 0240418_39507.shtml
+
+56.2024年南京大学物理学院全国优秀大三学生夏令营通知 （申请解析）
+https://physics.nju.edu.cn/xwgg/gg/20240422/i264523.html
+
+57.中国科学院上海药物研究所2024年“新药梦”优秀大学生夏令营营员招募
+https://mp.weixin.qq.com/s/O6TnWYMotHCisrjhnusMjA
+
+58.中国科学院上海光机所2024年“追光之旅”暑期大学生夏令营招募通知
+https://siom.cas.cn/rcjy/zsxx/sszs/202404/t20240423_7130189.html
+
+59.南科大机械与能源工程系2024年全国优秀大学生夏令营预报名通知
+https://mp.weixin.qq.com/s/-cskcfJ608o7RnGGA-vezA
+
+60.南方科技大学生物医学工程系2024年全国优秀大学生夏令营
+https://bme.sustech.edu.cn/20240425-2/?9
+
+61.南方科技大学物理系2024年全国优秀大学生夏令营报名通知
+https://mp.weixin.qq.com/s/zeIP0jjH3LFoVUasjJ1XeQ
+
+62.西南大学心理学与脑科学2024年优秀大学生夏令营通知
+http://psy.swu.edu.cn/info/1085/3736.htm
+
+63.清华大学交叉信息院2024年优秀大学生夏令营报名启动
+https://mp.weixin.qq.com/s/GJT9N-C-8KEBt_tHk27cNg
+
+64.2025年中国科学院微小卫星创新研究院招生简章
+https://mp.weixin.qq.com/s/up6icXQZgv_NV1Yzr_Rlqg
+
+65.中国科学院宁波材料所2024年“梦启甬城，心动科苑”大学生暑期夏令营营员招募通知
+https://ncmte.nimte.ac.cn/view-28877.html
+
+66.北京大学环境与能源学院2024年优秀大学生夏令营通知
+https://see.pkusz.edu.cn/info/1009/1565.htm
+
+67.北京大学现代农学院2024年全国优秀本科生和硕士研究生夏令营活动通知
+http://www.saas.pku.edu.cn/tzgg/tzgg1/377707.htm
+
+68.北京大学生命科学学院和生命科学联合中心（北大方面）关于联合举办“2024年全国优秀大学生夏令营”活动的通知
+https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html
+
+69.2024年苏州大学功能纳米与软物质研究院FUNSOM暑期夏令营活动通知
+https://funsom.suda.edu.cn/ac/e0/c2717a568544/page.htm
+
+70.临港实验室“欢迎光‘临’”2024年大学生夏令营
+https://yanzhao.shanghaitech.edu ... 20a1094259/page.htm
+
+71.辽宁科技大学关于举办2024年优秀大学生夏令营（深圳）活动的通知
+https://www.ustl.edu.cn/yjs/info/1030/3007.htm
+
+72.上海科技大学生物医学工程学院2024年大学生夏令营活动通知
+https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ
+
+73.北京大学前沿交叉学科研究院关于举办2024年交叉学科优秀大学生夏令营的通知
+http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1754
+
+74.2024年北京大学定量生物学中心优秀大学生夏令营招生简章
+http://cqb.pku.edu.cn/info/1064/2768.htm
+
+75.南京大学天文与空间科学学院2024年大学生暑期夏令营招生简章
+https://astronomy.nju.edu.cn/twdt/tzgg/20240426/i265837.html
+
+76.浙江大学数学科学学院2025年提前批推荐免试直博生招生通知
+http://www.math.zju.edu.cn/2024/0426/c38087a2909059/page.htm
+
+77.2024年中国海洋大学海洋生物进化与发育暑期学校
+https://mp.weixin.qq.com/s/5rbwwDrz3UQOys6vNUEQfg
+
+78.河南工业大学复杂性科学中心关于举办“2024年全国优秀大学生暑期夏令营”活动的通知
+https://cs.haut.edu.cn/info/1421/5974.htm
+
+79.海南大学-美国亚利桑那州立大学 2024“海悦”创新论坛暨大学生夏令营
+https://haitc.hainanu.edu.cn/info/1023/6347.htm
+
+80.苏州大学金螳螂建筑学院2024年第5届苏州大学建筑学、风景园林国际设计研修营招生公告
+https://mp.weixin.qq.com/s/VtfaOfQqcUB1D8XC9nHo8g
+
+81.清华大学地球系统科学系2024年全国优秀大学生夏令营通知
+https://www.dess.tsinghua.edu.cn/info/1123/6142.htm
+
+82.2024年中国科学院大学（华大专项）推免夏令营
+https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg
+
+83.中国科学院大学物理科学院“理论物理”大学生夏令营报名通知
+https://physics.ucas.ac.cn/index ... -02-10-59/6039-2024
+
+84.中国科学院大气物理研究所关于举办2024年大气物理所优秀大学生夏令营的通知
+https://iap.cas.cn/gb/yjsjy/tzgg/202404/t20240427_7135810.html
+
+85.西北大学科学史高等研究院第七届(2024)“科学与文明”优秀本科生夏令营报名通知
+https://mp.weixin.qq.com/s/PKs6rusZCyAij2-Fv1gTgQ
+
+86.复旦大学数学学科2024年全国优秀大学生首批推免生预选拔通知
+https://math.fudan.edu.cn/3d/74/c30374a671092/page.htm
+
+87.北京脑科学与类脑研究中心2024年夏令营报名通知
+https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w
+
+88.清华大学工业工程系2024年全国优秀大学生夏令营通知
+https://www.ie.tsinghua.edu.cn/info/1071/2648.htm
+
+89.南科大系统设计与智能制造学院2024年全国优秀大学生夏令营报名通知
+https://mp.weixin.qq.com/s/nRkLSLeb0p5zozRBkwpwZA
+
+90.2024年上海科技大学物质学院大学生夏令营报名公告
+https://spst.shanghaitech.edu.cn/2024/0428/c2413a1094362/page.htm
+
+91.南方科技大学深港微电子学院2024年优秀大学生夏令营报名通知
+https://sme.sustech.edu.cn/index/news/neiye/id/708.html
+
+92.中国科学院上海高等研究院 “梦筑高研” 2024年大学生暑期夏令营活动通知
+http://www.sari.cas.cn/gradedu/g ... 240429_7141703.html
+
+93.中国科学院福建物质结构研究所（海西研究院）2024年大学生暑期夏令营招募通知
+https://fjirsm.cas.cn/yjsjy/zsxx/202404/t20240429_7141662.html
+
+94.中国科学院软件研究所中文信息处理实验室推免招生说明
+http://www.icip.org.cn/zh/2024/04/28/zhaosheng2024/
+
+95.厦门大学化学化工学院暨能源材料化学协同创新中心（厦门）2024年全国优秀大学生夏令营活动通知（第一轮）
+https://chem.xmu.edu.cn/info/1272/26834.htm
+
+96.北京师范大学学前教育研究所学前教育专业暑期学校·2024招生公告
+https://mp.weixin.qq.com/s/oakVKqO0aZl0Ryomyo7A3Q
+
+97.中国科学院国家纳米科学中心“纳米春季，与你相遇”开放日报名通知
+http://edu.nanoctr.cas.cn/news/ggl/202404/t20240430_6967212.html
+
+98.中国科学院深圳先进技术研究院合成生物学研究所2024年第八届合成生物学青年夏令营即将来袭！
+https://mp.weixin.qq.com/s/aq131eRueP21c-6P_dnpxw
+
+99.中国科学院城市环境研究所2024年“城市环境与健康”优秀大学生夏令营开启！
+https://mp.weixin.qq.com/s/o2EqqBWZUGUuVuK2_xu_ww
+
+100.中国科学院上海应用物理研究所2024年“应用物理”暑期大学生夏令营招募通知
+https://mp.weixin.qq.com/s/-APYYSSINoO9drakuVYDWQ
+
+101.中国科学院分子细胞科学卓越创新中心大学生夏令营活动通知
+https://a.d4t.cn/JTRK6m
+
+102.中国科学院大学杭州高等研究院关于2024年优秀大学生夏令营报名的通知
+http://hias.ucas.ac.cn/info/1100/5633.htm
+
+103.清华大学自动化系智能与网络化系统研究中心招生夏令营（2025年秋季入学）报名开启
+https://cfins.au.tsinghua.edu.cn/index/info/1042/1467.html
+
+104.2024年南京大学建筑与城市规划学院优秀大学生夏令营通知
+https://arch.nju.edu.cn/rcpy/yjs/pyfa/20240415/i264040.html
+
+105.南京大学大气科学学院2024年 “全国大气科学优秀大学生暑期夏令营”通知
+https://as.nju.edu.cn/6d/70/c11322a683376/page.htm
+
+106.哈尔滨工业大学电气工程及自动化学院暑期夏令营通知
+https://hitee.hit.edu.cn/2024/0506/c17101a343967/page.htm
+
+107.北京大学、清华大学和北京生命科学研究所联合培养博士研究生项目（PTN项目）2024年夏令营通知
+http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1757
+
+108.辽宁大学数学与统计学院2024年全国优秀大学生夏令营通知
+https://ms.lnu.edu.cn/info/1040/1512.htm
+
+109.南方医科大学生物医学工程学院2024年优秀大学生夏令营通知
+http://portal.smu.edu.cn/swyxgcxy/info/1139/10387.htm
+
+110.中国烟草总公司郑州烟草研究院第十一届全国优秀大学生夏令营邀请函
+https://www.ztri.com.cn/yjsjy/ggxx/2024/04/434525.shtml
+
+111.南京大学人工智能学院2024年本科生开放日(夏令营)报名通知
+https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm
+
+112.2024年北京大学化学学院“全国优秀大学生夏令营”活动通知 （第一轮）
+https://mp.weixin.qq.com/s/9E1VSA7T3Upj6K32E-t_1A
+
+113.2024年北京大学物理学院“物理学、天文学、核科学与技术优秀大学生暑期夏令营”报名通知
+https://www.phy.pku.edu.cn/info/1482/10052.htm
+
+114.清华大学天文系“2024年天文学优秀大学生夏令营”
+https://mp.weixin.qq.com/s/4c21YcRRa2gNiRrg7CzQmQ
+
+115.清华大学教育研究院关于举办2024年“优秀大学生未来教育与学习科学夏令营”的通知
+https://www.ioe.tsinghua.edu.cn/info/1176/3444.htm
+
+116.复旦大学化学系2024年全国优秀大学生夏令营活动通知
+https://chemistry.fudan.edu.cn/3f/0d/c21866a671501/page.htm
+
+117.复旦大学类脑智能科学与技术研究院2024年全国优秀大学生夏令营活动通知
+https://istbi.fudan.edu.cn/info/1167/5380.htm
+
+118.复旦大学大数据学院2024年全国优秀大学生夏令营活动通知
+https://sds.fudan.edu.cn/3f/31/c17701a671537/page.htm
+
+119.复旦大学生命科学学院、遗传工程国家重点实验室、生物学国家高层次培养中心 2024年全国优秀大学生夏令营通知
+https://life.fudan.edu.cn/3f/32/c28139a671538/page.htm
+
+120.复旦大学计算机科学技术学院 2024年全国优秀大学生夏令营活动通知
+https://cs.fudan.edu.cn/3f/7d/c24257a671613/page.htm
+
+121.复旦大学高分子科学系2024年全国优秀大学生夏令营活动通知
+https://polymer.fudan.edu.cn/3f/7c/c31394a671612/page.htm
+
+122.复旦大学高等教育研究所2024年全国优秀大学生夏令营活动通知
+https://www.ihe.fudan.edu.cn/3f/46/c2798a671558/page.htm
+
+123.复旦大学历史地理研究中心2024年全国优秀大学生夏令营活动通知
+https://yugong.fudan.edu.cn/info/1006/3455.htm
+
+124.复旦大学工程与应用技术研究院2024年全国优秀大学生夏令营活动通知
+https://faet.fudan.edu.cn/3f/67/c23815a671591/page.htm
+
+125.复旦大学代谢与整合生物学研究院2024年全国优秀大学生夏令营活动通知
+https://imib.fudan.edu.cn/3f/4c/c22731a671564/page.htm
+
+126.复旦大学集成电路领域2024年全国优秀大学生夏令营活动通知
+https://sme.fudan.edu.cn/3f/5f/c29363a671583/page.htm
+
+127.复旦大学人类表型组研究院2024年全国优秀大学生夏令营活动通知
+https://hupi.fudan.edu.cn/info/1064/3416.htm
+
+128.复旦大学大气与海洋科学系2024年全国优秀大学生夏令营活动通知
+https://aos.fudan.edu.cn/3f/44/c14983a671556/page.htm
+
+129.吉林大学计算机科学与技术学院2024年优秀大学生暑期夏令营活动通知
+http://ccst.jlu.edu.cn/info/1091/19265.htm
+
+130.南方科技大学化学系2024年全国优秀大学生夏令营报名通知
+https://mp.weixin.qq.com/s/gIX8H8nSJD-QT8b4y72qfw
+
+131.中国科学院大学物理科学学院2024年“粒子物理与原子分子物理”大学生夏令营报名通知
+https://physics.ucas.ac.cn/index ... 2-10-59/6046-2024-2
+
+132.哈尔滨工业大学土木工程学院2024年优秀研究生生源选拔暑期夏令营通知
+http://civil.hit.edu.cn/2024/0506/c8439a343951/page.htm
+
+133.哈尔滨工业大学机电工程学院暑期夏令营通知
+http://sme.hit.edu.cn/2024/0507/c17968a344034/page.htm
+
+134.2024年清华大学航空宇航电子系统实验室夏令营
+https://www.hy.tsinghua.edu.cn/info/1203/3067.htm
+
+135.清华大学物理系关于举办“2024年物理学优秀大学生夏令营”活动的通知
+https://www.phys.tsinghua.edu.cn/info/1250/5936.htm
+
+136.清华大学能源与动力工程系2024年全国优秀青年学子夏令营通知
+https://www.te.tsinghua.edu.cn/info/1094/3299.htm
+
+137.2024年北京大学环境科学与工程学院优秀大学生夏令营活动通知
+http://cese.pku.edu.cn/tzgg/158405.htm
+
+138.哈尔滨工业大学环境学院2025年优秀研究生生源选拔暑期夏令营
+https://env.hit.edu.cn/2024/0506/c9507a343997/page.htm
+
+139.哈尔滨工业大学建筑与设计学院2024年优秀研究生生源选拔暑期夏令营通知
+https://arch.hit.edu.cn/2024/0506/c11953a343984/page.htm
+
+140.哈尔滨工业大学电子与信息工程学院2024年暑期夏令营通知
+http://seie.hit.edu.cn/2024/0507/c17148a344093/page.htm
+
+141.哈尔滨工业大学仪器科学与工程学院暑期夏令营通知
+http://ise.hit.edu.cn/2024/0508/c16271a344263/page.htm
+
+142.哈尔滨工业大学物理学院暑期夏令营通知
+https://physics.hit.edu.cn/2024/0508/c12332a344239/page.htm
+
+143.哈尔滨工业大学能源科学与工程学院暑期夏令营通知
+http://power.hit.edu.cn/2024/0509/c5714a344266/page.htm
+
+144.哈尔滨工业大学数学学院2025年优秀研究生生源（含直博生）选拔暑期夏令营通知
+https://www.eeban.com/thread-207657-1-1.html
+
+145.哈尔滨工业大学生命科学和医学学部2024年优秀大学生暑期夏令营通知
+http://life.hit.edu.cn/2024/0509/c14576a344276/page.htm
+
+146.2024年湖南工商大学计算机学院优秀大学生暑期夏令营活动方案
+https://cee.hutb.edu.cn/p155/tzgg/20240508/159478.html
+
+147.2024年复旦大学数学科学学院全国优秀大学生夏令营活动通知
+https://math.fudan.edu.cn/40/25/c30374a671781/page.htm
+
+148.复旦大学现代物理研究所2024年全国优秀大学生夏令营活动通知
+https://imp.fudan.edu.cn/3f/62/c8447a671586/page.htm
+
+149.复旦大学物理学系2024年全国优秀大学生夏令营 活动通知
+https://phys.fudan.edu.cn/40/8a/c7522a671882/page.htm
+
+150.复旦大学上海数学中心2024年全国优秀大学生夏令营活动通知
+https://scms.fudan.edu.cn/info/1047/6671.htm
+
+151.复旦大学先进材料实验室 2024 年全国优秀大学生夏令营活动通知
+https://lam.fudan.edu.cn/40/c7/c26012a671943/page.htm
+
+152.复旦大学信息科学与工程学院2024年全国优秀大学生夏令营活动通知
+http://www.it.fudan.edu.cn/Data/View/4616
+
+153.复旦大学智能复杂体系基础理论与关键技术实验室2024年全国优秀大学生夏令营
+​活动通知
+https://iics.fudan.edu.cn/40/c4/c33511a671940/page.htm
+
+154.2024年山东大学前沿交叉科学青岛研究院优秀大学生暑期夏令营
+http://www.pppi.sdu.edu.cn/info/1042/4398.htm
+
+
+155.复旦大学航空航天系2024年全国优秀大学生夏令营活动通知
+https://aero-mech.fudan.edu.cn/40/95/c26484a671893/page.htm
+
+156.复旦大学脑科学转化研究院2024年全国优秀大学生夏令营活动通知
+https://itbr.fudan.edu.cn/info/1064/4691.htm
+
+157.清华大学航发院2024年优秀大学生夏令营活动通知
+https://www.ae.tsinghua.edu.cn/info/1025/1758.htm
+
+158.2024年北京大学环境科学与工程学院PKU-LSE项目环境管理专业（环境政策、技术与健康方向） 优秀大学生夏令营的通知
+http://cese.pku.edu.cn/tzgg/158491.htm
+
+159.哈尔滨工业大学交通科学与工程学院暑期夏令营通知
+http://jtxy.hit.edu.cn/2024/0509/c6085a344309/page.htm
+
+160.南京大学生命科学学院2024年本科生暑期开放日暨接收2025年推荐免试研究生通知
+https://life.nju.edu.cn/72/36/c12936a684598/page.htm
+
+</details>
 
 
 # 基本信息
