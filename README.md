@@ -1,6 +1,5 @@
 # 主题曲： 无间地狱Chaos Hell~ Heifei university of technology
 
-https://github.com/AzzG-2ql7-9WTL/uuhk-kck0-F2GR/assets/171324926/da0ca3ae-ed02-4dad-847c-399f17e5059c
 
 ```
 period:3:46
