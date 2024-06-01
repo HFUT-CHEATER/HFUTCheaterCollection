@@ -2,6 +2,8 @@
 
 流媒体发布平台
 Youtube:https://youtu.be/lWuMdQkk1rw
+Bandcamp:https://hfutcheater.bandcamp.com/album/hfutcheaterthemesong
+
 
 https://github.com/AzzG-2ql7-9WTL/uuhk-kck0-F2GR/assets/170264060/393fbc7e-e086-4fd9-8e8e-be457bbfc693
 
