@@ -1,14 +1,20 @@
 # 主题曲： 无间地狱Chaos Hell~ Heifei university of technology
 
+https://github.com/AzzG-2ql7-9WTL/uuhk-kck0-F2GR/assets/170264060/393fbc7e-e086-4fd9-8e8e-be457bbfc693
 
 ```
 period:3:46
 
-create period:2024.5
+project create time:2024.5
+
+tools: 
+adobe audition 
+FL Studio
 
 artist:hfutcheater&MK
 
 style:dubstep、hardcore、new age piano
+
 
 六月上架平台：
 
