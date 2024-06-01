@@ -57,7 +57,7 @@ bandcamp
 
 # 合肥工业大学计算机学院作弊流程图
 
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@master/img/20240531182913.png)
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240531182913.png)
 
 # 头版头条——2024年5月31日计算机与信息学院数据库考试事件
 
@@ -84,7 +84,7 @@ bandcamp
 
 纸质小抄泄露
 
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@master/img/2024%E5%B9%B4%E4%BA%94%E6%9C%88%E4%B8%89%E5%8D%81%E4%B8%80%E6%97%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BD%9C%E5%BC%8A%E8%AF%81%E6%8D%AE.jpg)
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/2024%E5%B9%B4%E4%BA%94%E6%9C%88%E4%B8%89%E5%8D%81%E4%B8%80%E6%97%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BD%9C%E5%BC%8A%E8%AF%81%E6%8D%AE.jpg)
 
 
 - [主题曲： 无间地狱Chaos Hell~ Heifei university of technology](#主题曲-无间地狱chaos-hell-heifei-university-of-technology)
