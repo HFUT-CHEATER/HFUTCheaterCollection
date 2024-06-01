@@ -1,3 +1,28 @@
+# 主题曲： 无间地狱Chaos Hell~ Heifei university of technology
+
+https://github.com/AzzG-2ql7-9WTL/uuhk-kck0-F2GR/assets/171324926/da0ca3ae-ed02-4dad-847c-399f17e5059c
+
+```
+period:3:46
+
+create period:2024.5
+
+artist:hfutcheater&MK
+
+style:dubstep、hardcore、new age piano
+
+六月上架平台：
+
+网易云音乐
+
+腾讯音乐
+
+youtube music
+
+bandcamp
+```
+
+
 # 夏怀琪列传
 
 ## 抢课设题目
@@ -50,6 +75,7 @@
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/2024%E5%B9%B4%E4%BA%94%E6%9C%88%E4%B8%89%E5%8D%81%E4%B8%80%E6%97%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BD%9C%E5%BC%8A%E8%AF%81%E6%8D%AE.jpg)
 
 
+- [主题曲： 无间地狱Chaos Hell~ Heifei university of technology](#主题曲-无间地狱chaos-hell-heifei-university-of-technology)
 - [夏怀琪列传](#夏怀琪列传)
   - [抢课设题目](#抢课设题目)
   - [课设照搬CSDN](#课设照搬csdn)
