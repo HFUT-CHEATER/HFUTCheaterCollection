@@ -57,7 +57,7 @@ bandcamp
 
 # 合肥工业大学计算机学院作弊流程图
 
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240531182913.png)
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@master/img/20240531182913.png)
 
 # 头版头条——2024年5月31日计算机与信息学院数据库考试事件
 
@@ -84,7 +84,7 @@ bandcamp
 
 纸质小抄泄露
 
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/2024%E5%B9%B4%E4%BA%94%E6%9C%88%E4%B8%89%E5%8D%81%E4%B8%80%E6%97%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BD%9C%E5%BC%8A%E8%AF%81%E6%8D%AE.jpg)
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@master/img/2024%E5%B9%B4%E4%BA%94%E6%9C%88%E4%B8%89%E5%8D%81%E4%B8%80%E6%97%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BD%9C%E5%BC%8A%E8%AF%81%E6%8D%AE.jpg)
 
 
 - [主题曲： 无间地狱Chaos Hell~ Heifei university of technology](#主题曲-无间地狱chaos-hell-heifei-university-of-technology)
@@ -757,10 +757,10 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
 # 3. 基本信息
 
 **辅导员、行政信息一览**
-- [左能](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E5%B7%A6%E8%83%BD.md) 
-- [薛原](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E8%96%9B%E5%8E%9F.md) **类人猿生物，超出人类讨论范围** 
-- [黄鹏飞](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E9%BB%84%E9%B9%8F%E9%A3%9E.md) 
-- [朱文拿](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E6%9C%B1%E6%96%87%E6%8B%BF.md)  
+- [左能](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/monitor/%E5%B7%A6%E8%83%BD.md) 
+- [薛原](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/monitor/%E8%96%9B%E5%8E%9F.md) **类人猿生物，超出人类讨论范围** 
+- [黄鹏飞](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/monitor/%E9%BB%84%E9%B9%8F%E9%A3%9E.md) 
+- [朱文拿](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/monitor/%E6%9C%B1%E6%96%87%E6%8B%BF.md)  
 - 曹文钊 
 - 黄晨
 - 刘世国
@@ -817,17 +817,17 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
 |2020|郝戌京||
 |2020|竺乐祺|信息管理与信息系统|
 | 2020 | 阳永琳 | 工商管理 |工商管理|
-| 2020 | [卞子豪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(1).md) | 市场营销 |未取得联系 |
-| 2020 | [刘嘉欣](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(2).md) | 市场营销 |未取得联系 |
+| 2020 | [卞子豪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(1).md) | 市场营销 |未取得联系 |
+| 2020 | [刘嘉欣](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(2).md) | 市场营销 |未取得联系 |
 | 2021 | 陈镜宇 |  | |
 | 2021 |陈荣昇 | 信息管理与信息系统创新实验班 | |
-| 2021 | [冯梦圆](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(4).md) | 信息管理与信息系统 |信息管理与信息系统 |
-| 2021 | [蔡影](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(3).md) | 信息管理与信息系统 | 信息管理与信息系统 |
-| 2021 | [刘馨仪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(5).md) | 信息管理与信息系统 |信息管理与信息系统 |
-| 2021 | [周婷](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(6).md) | 信息管理与信息系统 |信息管理与信息系统 |
-| 2021 | [赵翊辰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
-| 2021 | [王芸馨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
-| 2021 | [戴天程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(5).md) | 信息管理与信息系统 | 信息管理与信息系统 |
+| 2021 | [冯梦圆](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(4).md) | 信息管理与信息系统 |信息管理与信息系统 |
+| 2021 | [蔡影](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(3).md) | 信息管理与信息系统 | 信息管理与信息系统 |
+| 2021 | [刘馨仪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(5).md) | 信息管理与信息系统 |信息管理与信息系统 |
+| 2021 | [周婷](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(6).md) | 信息管理与信息系统 |信息管理与信息系统 |
+| 2021 | [赵翊辰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
+| 2021 | [王芸馨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
+| 2021 | [戴天程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(5).md) | 信息管理与信息系统 | 信息管理与信息系统 |
 | 2021 | 焦欣茹 | 信息管理与信息系统 |  |
 |2021|[朱翔宇]()|
 |2021|[闻一玮]()|
@@ -844,13 +844,13 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
 
 | 入学年份 | 姓名  | 专业  |举报者专业|
 | --- | --- | --- | ---|
-| 2020 | [夏睿丹](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(11).md) | 集成电路 |集成电路 |
-| 2020 | [乔梦瑶](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(12).md) | 集成电路 | 集成电路 |
-| 2020 | [汪泽礽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md) | 集成电路 | 集成电路 |
-| 2020 | [陈贵琳](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md) | 集成电路 | 集成电路 |
-| 2020 | [李博翰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/3(1).md)| 集成电路 | 集成电路 |
-| 2020 | [杨康](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(13).md) | 集成电路 | 集成电路 |
-| 2021 | [卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(14).md) | 电子科学与技术 |电子科学与技术 |
+| 2020 | [夏睿丹](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(11).md) | 集成电路 |集成电路 |
+| 2020 | [乔梦瑶](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(12).md) | 集成电路 | 集成电路 |
+| 2020 | [汪泽礽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/3(1).md) | 集成电路 | 集成电路 |
+| 2020 | [陈贵琳](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/3(1).md) | 集成电路 | 集成电路 |
+| 2020 | [李博翰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/3(1).md)| 集成电路 | 集成电路 |
+| 2020 | [杨康](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(13).md) | 集成电路 | 集成电路 |
+| 2021 | [卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(14).md) | 电子科学与技术 |电子科学与技术 |
 | 2021 | 孙涌钏 | 集成电路 |
 
 **计算机与信息学院**
@@ -869,18 +869,18 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
 | 2021 | [蔡骐璠]() | 电子信息工程 | |
 | 2021 | 武玉婷 | 电子信息工程 | |
 |2021|王祉翾 |电子信息工程||
-| 2021 | [徐子航](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(7).md) | 计算机科学与技术 |计算机科学与技术 |
+| 2021 | [徐子航](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(7).md) | 计算机科学与技术 |计算机科学与技术 |
 | 2021 | 修雪玉 | 计算机科学与技术 | |
-| 2021 | [黎倩](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(8).md) | 计算机科学与技术 |通信工程 |
-| 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(9).md) | 计算机科学与技术 | 通信工程 |
-| 2021 | [丁元博](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(10).md) | 计算机科学与技术 |通信工程 |
+| 2021 | [黎倩](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(8).md) | 计算机科学与技术 |通信工程 |
+| 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(9).md) | 计算机科学与技术 | 通信工程 |
+| 2021 | [丁元博](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(10).md) | 计算机科学与技术 |通信工程 |
 | 2021 | 饶鑫龙 | 计算机科学与技术 | |
 | 2021 | [刘敏睿]() | 计算机科学与技术 | |
 | 2021 | [郭宇童]() | 智能科学与技术 | |
 | 2021 | [姚骏]() | 智能科学与技术 |智能科学与技术 |
 | 2021 | [檀仁宇]() | 智能科学与技术 |智能科学与技术 |
 | 2021 | [陈起越]() | 电子信息工程 |通信工程 |
-| 2021 | [谢佳其](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(4).md) | 通信工程 |要求不公开 |
+| 2021 | [谢佳其](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(4).md) | 通信工程 |要求不公开 |
 | 2022 | [王腾昊]() | 计算机科学与技术 |
 |2022|王浩宇|计算机科学与技术|
 
@@ -888,7 +888,7 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
 
 | 入学年份 | 姓名  | 专业  |举报者专业|
 | --- | --- | --- | ---|
-| 2021 | [胡嘉勋](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(4).md) | 食品科学与工程 |要求不公开 |
+| 2021 | [胡嘉勋](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(4).md) | 食品科学与工程 |要求不公开 |
 
 **电气学院**
 | 入学年份 | 姓名  | 专业  |举报者专业|
@@ -903,7 +903,7 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
 | 2020 |谢其龙| 电气创新实验班 |电气创新实验班 |
 | 2021 |刘炳旭(宣城)| 电气工程及其自动化 | |
 | 2021 |辛菲(宣城)| 电气工程及其自动化 | |
-| 2021 |[宗兴泽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(1).md) | 自动化 |自动化 |
+| 2021 |[宗兴泽](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(1).md) | 自动化 |自动化 |
 
 **仪器学院**
 | 入学年份 | 姓名  | 专业  |举报者专业|
@@ -914,7 +914,7 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
 **建筑与艺术学院**
 | 入学年份 | 姓名  | 专业  |
 | --- | --- | --- |
-| 2015 | [薛原](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/monitor/%E8%96%9B%E5%8E%9F.md) | 设计学室内设计理论方向 |
+| 2015 | [薛原](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/monitor/%E8%96%9B%E5%8E%9F.md) | 设计学室内设计理论方向 |
 
 **文法学院**
 | 入学年份 | 姓名  | 专业  |举报者专业|
@@ -949,7 +949,7 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
 |2019|张启民|飞行器制造工程|
 |2021|杨志|机械|
 |2021|罗子惟|机创|
-| 2022 | [章杰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/2(3).md) | 食品转机械 |匿名|
+| 2022 | [章杰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(3).md) | 食品转机械 |匿名|
 
 
 
@@ -1069,7 +1069,7 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
 
 ## 5.3. 细数薛猿七宗罪(自杀事件及个人经历总结)
  
-- [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
+- [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/evidence/%E5%BD%95%E9%9F%B31.mp3)
 
 怠惰
 
@@ -1117,7 +1117,7 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
   解释一下你和徐子航、LMR什么关系——“有毒”、“这个人”
 
 
-## 5.4. [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024mzc.md)  || [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
+## 5.4. [拿了国奖又如何——以2024年3月计算机与信息学院行政如何掩盖2021计算机国奖学生自杀为例](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/various/2024mzc.md)  || [录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/evidence/%E5%BD%95%E9%9F%B31.mp3)
 奉劝今年高考的考生家长千万不要让孩子志愿填报合工大,没关系没条件您的孩子再优秀也只是人矿及人肉电池
   - 年永琪
   - 夏娜
@@ -1130,7 +1130,7 @@ https://life.nju.edu.cn/72/36/c12936a684598/page.htm
 
   **唯一最爱你们的只有你们的父母**
 
-[录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/evidence/%E5%BD%95%E9%9F%B31.mp3)
+[录音节选](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/evidence/%E5%BD%95%E9%9F%B31.mp3)
 
 （一）
 
@@ -1366,11 +1366,11 @@ PS：xxy曾是土木学院答辩选手，非常擅长狡辩，希望团队不要
 
 ## 5.11. 类人猿生物薛原合订本
 
-- [薛原全集](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main/%E8%96%9B%E5%8E%9F%E5%85%A8%E9%9B%86)
-- [追悼会](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main#%E8%96%9B%E5%8E%9F%E6%BC%94%E5%94%B1%E4%BC%9Axueyuan-so--happy-%E6%9A%A8%E8%96%9B%E5%8E%9F%E8%BF%BD%E6%82%BC%E5%A4%A7%E4%BC%9A)
-- [七宗罪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main#%E7%BB%86%E6%95%B0%E8%96%9B%E7%8C%BF%E4%B8%83%E5%AE%97%E7%BD%AA%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6%E5%8F%8A%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86%E6%80%BB%E7%BB%93)
-- [十大恨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main#%E6%8F%AD%E7%A7%98%E5%90%88%E5%B7%A5%E5%A4%A7%E5%8E%9F%E7%A5%9E%E8%B5%B7%E5%BA%95%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E8%BF%9D%E7%BA%AA%E5%B0%8F%E5%B0%86%E8%96%9B%E5%8E%9F%E5%8D%81%E5%A4%A7%E6%81%A8)
-- [3.1事件](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/main#%E6%8B%BF%E4%BA%86%E5%9B%BD%E5%A5%96%E5%8F%88%E5%A6%82%E4%BD%95%E4%BB%A52024%E5%B9%B43%E6%9C%88%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E8%A1%8C%E6%94%BF%E5%A6%82%E4%BD%95%E6%8E%A9%E7%9B%962021%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BD%E5%A5%96%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%B8%BA%E4%BE%8B---%E5%BD%95%E9%9F%B3%E8%8A%82%E9%80%89)
+- [薛原全集](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/master/%E8%96%9B%E5%8E%9F%E5%85%A8%E9%9B%86)
+- [追悼会](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/master#%E8%96%9B%E5%8E%9F%E6%BC%94%E5%94%B1%E4%BC%9Axueyuan-so--happy-%E6%9A%A8%E8%96%9B%E5%8E%9F%E8%BF%BD%E6%82%BC%E5%A4%A7%E4%BC%9A)
+- [七宗罪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/master#%E7%BB%86%E6%95%B0%E8%96%9B%E7%8C%BF%E4%B8%83%E5%AE%97%E7%BD%AA%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6%E5%8F%8A%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86%E6%80%BB%E7%BB%93)
+- [十大恨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/master#%E6%8F%AD%E7%A7%98%E5%90%88%E5%B7%A5%E5%A4%A7%E5%8E%9F%E7%A5%9E%E8%B5%B7%E5%BA%95%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E8%BF%9D%E7%BA%AA%E5%B0%8F%E5%B0%86%E8%96%9B%E5%8E%9F%E5%8D%81%E5%A4%A7%E6%81%A8)
+- [3.1事件](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/tree/master#%E6%8B%BF%E4%BA%86%E5%9B%BD%E5%A5%96%E5%8F%88%E5%A6%82%E4%BD%95%E4%BB%A52024%E5%B9%B43%E6%9C%88%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E8%A1%8C%E6%94%BF%E5%A6%82%E4%BD%95%E6%8E%A9%E7%9B%962021%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BD%E5%A5%96%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%B8%BA%E4%BE%8B---%E5%BD%95%E9%9F%B3%E8%8A%82%E9%80%89)
 
 ## 5.12. 怎么回事捏？
 
@@ -1952,7 +1952,7 @@ uid：1930086425
 
 ## 10.4. 起底合工大某位两字学阀头子
 
-## 10.5. 五四纪念祖辈——国有疑难可问谁？[文集下载](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/reference/book/%E7%BD%97%E8%8D%A3%E6%A1%93%E5%85%83%E5%B8%85%E6%96%87%E9%9B%86.pdf)
+## 10.5. 五四纪念祖辈——国有疑难可问谁？[文集下载](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/reference/book/%E7%BD%97%E8%8D%A3%E6%A1%93%E5%85%83%E5%B8%85%E6%96%87%E9%9B%86.pdf)
 
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/160773353/a0ab7fa3-d2b6-4ecd-91da-bc1c7e265047)
 
@@ -2057,7 +2057,7 @@ uid：1930086425
 
 ## 10.7. 合工大越南留学生公开支持南京大屠杀，为侵华日军叫好
 
-- [4.27合工大反华事件调查报告](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/various/2024%E5%B9%B4%E5%90%88%E5%B7%A5%E5%A4%A7%E5%9C%A8%E5%8D%8E%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%8D%E5%8D%8E.md)
+- [4.27合工大反华事件调查报告](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/various/2024%E5%B9%B4%E5%90%88%E5%B7%A5%E5%A4%A7%E5%9C%A8%E5%8D%8E%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%8D%E5%8D%8E.md)
 
 <details>
 <summary>投稿评价一则</summary>
@@ -2318,7 +2318,7 @@ https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/160773353/6af2c2d6-
 
 ## 10.19. 揭秘保研宿舍
 
-## 10.20. 补充：[神偷卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/main/list/1(14).md)
+## 10.20. 补充：[神偷卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(14).md)
 
 - 合肥工业大学2021级电科专业卜一，屡次偷我东西，以前我的充电宝沐浴露什么的丢了先不说，没实质性证据。但是这次你偷我考研资料，不好意思，让我抓到了。
 
