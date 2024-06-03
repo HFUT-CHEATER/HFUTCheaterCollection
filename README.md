@@ -6,6 +6,9 @@
 
 开考五分钟后卷子即泄露
 
+![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/160773353/bb2106d9-11e0-48ca-83a4-c4553c3a9885)
+
+
 # 夏令营期间置顶及使用说明：合肥工业大学计算机学院21级计算机科学与技术夏令营成绩单造假事件
 
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240531182913.png)
