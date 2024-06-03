@@ -13,6 +13,14 @@
 
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240531182913.png)
 
+马鞍山市红星中学夏怀琪
+
+班主任：周梅杨荣敏
+
+同学：
+邵润杰 钱萌萌 王天啸 黄文杰 谢欣哲 黄文 吴卓桓 朱琳琳
+杨洋 马典骏 董逸凡 王旭博 吴阳 王熹檩 吴枫语 陈昕
+
 
 已联系相关夏令营名单：https://github.com/HFUT-CHEATER/CSSummerCamp2024
 
