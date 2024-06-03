@@ -24,6 +24,10 @@
 
 ④**21 车辆工程 王天宇（机械设计）——qq群接收贩卖的答案**
 
+⑤ 肖献强实验室
+
+⑥ 电创实验室
+
 补充电气18级毕业生作证：
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240603221047.png)
 
