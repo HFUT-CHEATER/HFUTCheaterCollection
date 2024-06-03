@@ -4,7 +4,7 @@
 
 22计算机1，2，3班
 
-开考五分钟后卷子即泄露
+开考五分钟后卷子即泄露，进行线上作弊
 
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240603154139.png)
 
