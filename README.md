@@ -7,11 +7,14 @@
 
 开考五分钟后卷子即泄露，进行线上作弊
 
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240603215550.png)
+
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240603154139.png)
 
 # 夏令营期间置顶及使用说明：①基础信息：学号、姓名、夏令营申请身份证后四位 ②举报内容（请直接在本页面内搜索姓名）
 
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240531182913.png)
+
 
 ---
 
