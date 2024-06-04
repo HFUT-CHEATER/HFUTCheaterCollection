@@ -1,4 +1,4 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    ![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)
+![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)
 
 
 
