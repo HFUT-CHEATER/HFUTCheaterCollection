@@ -1,3 +1,8 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    ![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)
+
+
+
+
 # [举报对象信息一览表](#3-基本信息)
 
 安徽省互联网违法和不良信息举报平台反馈合肥工业大学计算机学院有人举报诬陷、恶意抹黑本平台发布的内容都是虚构，特此通报嘴脸
