@@ -1,6 +1,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)    ![GitHub last commit](https://img.shields.io/github/last-commit/HFUT-CHEATER/HFUTCheaterCollection)
 
-
+[![1](https://img.shields.io/badge/%E5%8F%8D%E5%8D%8E%E4%BA%8B%E4%BB%B6-2024.4.27-blue)](#149-合肥工业大学2024年4月27日在华留学生节公开支持分裂中国活动其心可诛)
 
 
 
