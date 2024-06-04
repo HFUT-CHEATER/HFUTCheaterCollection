@@ -1,12 +1,18 @@
+# 关键词提示板
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)    ![GitHub last commit](https://img.shields.io/github/last-commit/HFUT-CHEATER/HFUTCheaterCollection)
 
-![1](https://img.shields.io/badge/%E5%8F%8D%E5%8D%8E%E4%BA%8B%E4%BB%B6-2024.4.27-blue)
+![1](https://img.shields.io/badge/作弊学生基本信息-专业班级作弊事迹-red) ![1](https://img.shields.io/badge/行政包庇人员花名册-blue) ![1](https://img.shields.io/badge/大字报-不换思想就换人-green)  
 
-![1](https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E7%BA%BF%E4%B8%8A%E4%BD%9C%E5%BC%8A-2024.6.3-blue)
 
-![1](https://img.shields.io/badge/%E5%9B%BD%E5%A5%96%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6-2024.3.1-blue)
 
-![1](https://img.shields.io/badge/21计算机修雪玉-灌水论文、特殊交易、虚假成绩-blue)  ![1](https://img.shields.io/badge/20电信工集体舞弊-修改成绩单-blue) ![1](https://img.shields.io/badge/20集成电路集体舞弊-以宿舍为单位作弊-blue) ![1](https://img.shields.io/badge/土木学院刘高亮-特意造神-blue) ![1](https://img.shields.io/badge/22计算机王腾昊-认干爹干妈拿高分的典型-blue) ![1](https://img.shields.io/badge/电创实验室杨兴明-贪污互联网加经费、骗取项目-blue) ![1](https://img.shields.io/badge/合工大挑战杯、互联网加集体造假-挪用基金项目、研究生论文专利申报本科生组-blue)
+
+![1](https://img.shields.io/badge/%E5%8F%8D%E5%8D%8E%E4%BA%8B%E4%BB%B6-2024.4.27-blue) ![1](https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E7%BA%BF%E4%B8%8A%E4%BD%9C%E5%BC%8A-2024.6.3-blue) ![1](https://img.shields.io/badge/%E5%9B%BD%E5%A5%96%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6-2024.3.1-blue)
+
+![1](https://img.shields.io/badge/21计算机修雪玉-灌水论文、特殊交易、虚假成绩-blue)  ![1](https://img.shields.io/badge/20电信工集体舞弊-修改成绩单-blue) ![1](https://img.shields.io/badge/20集成电路集体舞弊-以宿舍为单位作弊-blue) ![1](https://img.shields.io/badge/土木学院刘高亮-特意造神-blue) ![1](https://img.shields.io/badge/22计算机王腾昊-认干爹干妈拿高分的典型-blue) ![1](https://img.shields.io/badge/电创实验室杨兴明-贪污互联网加经费、骗取项目-blue) ![1](https://img.shields.io/badge/合工大挑战杯、互联网加集体造假-挪用基金项目、研究生论文专利申报本科生组-blue) ![1](https://img.shields.io/badge/谷雨-S2AC黑历史-blue) ![1](https://img.shields.io/badge/陈田-系统结构-blue) ![1](https://img.shields.io/badge/黄安然-均分不到80发表AAAI一作-blue) ![1](https://img.shields.io/badge/黄安然-均分不到80发表AAAI一作-blue) 
+
+![1](https://img.shields.io/badge/三下乡-公款旅游-blue)  ![1](https://img.shields.io/badge/团委书记跳楼-2011-blue)  ![1](https://img.shields.io/badge/副校长举报校长-2016-blue)  ![1](https://img.shields.io/badge/志愿时长-利用关系盖章认定-blue) ![1](https://img.shields.io/badge/张启民-虚假的合工大科技标兵-blue) ![1](https://img.shields.io/badge/原新博、阳永琳、张爽-特殊交易-blue)  
+
 
 
 
