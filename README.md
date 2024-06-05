@@ -253,6 +253,12 @@
 | 2020 | [杨康](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(13).md) | 集成电路 | 集成电路 |
 | 2021 | [卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(14).md) | 电子科学与技术 |电子科学与技术 |
 | 2021 | 孙涌钏 | 集成电路 ||
+| 2021 |  武广宏 | 集成电路 ||
+| 2021 |  孙瑜旸 | 集成电路 ||
+| 2021 |   蒋灏毅 | 集成电路 ||
+| 2021 |  施证耀 | 集成电路 ||
+
+
 
 **计算机与信息学院**
 
