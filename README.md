@@ -17,7 +17,7 @@
 ![1](https://img.shields.io/badge/三下乡-公款旅游-red)  ![1](https://img.shields.io/badge/团委书记跳楼-2011-red)  ![1](https://img.shields.io/badge/副校长举报校长-2016-red)  ![1](https://img.shields.io/badge/志愿时长-利用关系盖章认定-red) ![1](https://img.shields.io/badge/张启民-虚假的合工大科技标兵-red) ![1](https://img.shields.io/badge/原新博、阳永琳、张爽-特殊交易-red)  
 
 
-![1](https://img.shields.io/badge/21集成电路-集体舞弊-red)  注：举报中称能保研的几乎没有不作弊的
+![1](https://img.shields.io/badge/21集成电路-集体舞弊-red)  注：有关21级集成电路举报中称能保研的几乎没有不作弊的
 
 
 (点击下方三角展开目录快速查找)
