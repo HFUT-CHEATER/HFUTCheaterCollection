@@ -1,6 +1,8 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)    ![GitHub last commit](https://img.shields.io/github/last-commit/HFUT-CHEATER/HFUTCheaterCollection)
+
+
 # 1.关键词提示板 置顶：cheateronline文件夹内存有大量线上组织作弊证据，请自行翻阅
 
-![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)    ![GitHub last commit](https://img.shields.io/github/last-commit/HFUT-CHEATER/HFUTCheaterCollection)
 
 ![1](https://img.shields.io/badge/作弊学生基本信息-专业班级作弊事迹-red) ![1](https://img.shields.io/badge/行政包庇人员花名册-blue) ![1](https://img.shields.io/badge/大字报-不换思想就换人-green)  
 
@@ -9,7 +11,11 @@
 
 ![1](https://img.shields.io/badge/%E5%8F%8D%E5%8D%8E%E4%BA%8B%E4%BB%B6-2024.4.27-blue) ![1](https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E7%BA%BF%E4%B8%8A%E4%BD%9C%E5%BC%8A-2024.6.3-blue) ![1](https://img.shields.io/badge/%E5%9B%BD%E5%A5%96%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6-2024.3.1-blue)
 
-![1](https://img.shields.io/badge/21计算机修雪玉-灌水论文、特殊交易、虚假成绩-blue)  ![1](https://img.shields.io/badge/20电信工集体舞弊-修改成绩单-blue) ![1](https://img.shields.io/badge/20集成电路集体舞弊-以宿舍为单位作弊-blue) ![1](https://img.shields.io/badge/土木学院刘高亮-特意造神-blue) ![1](https://img.shields.io/badge/22计算机王腾昊-认干爹干妈拿高分的典型-blue) ![1](https://img.shields.io/badge/电创实验室杨兴明-贪污互联网加经费、骗取项目-blue) ![1](https://img.shields.io/badge/合工大挑战杯、互联网加集体造假-挪用基金项目、研究生论文专利申报本科生组-blue) ![1](https://img.shields.io/badge/谷雨-S2AC黑历史-blue) ![1](https://img.shields.io/badge/陈田-系统结构-blue) ![1](https://img.shields.io/badge/黄安然-均分不到80发表AAAI一作-blue) ![1](https://img.shields.io/badge/刘敏睿&姚骏&修雪玉-出轨隐瞒灌水挂名-blue) ![1](https://img.shields.io/badge/薛原&修雪玉-第一届大学生职业规划大赛-pink) ![1](https://img.shields.io/badge/薛原-辱骂自杀学生家长-pink)  ![1](https://img.shields.io/badge/夏怀琪-数据结构作弊完在宿舍炫耀-pink)    ![1](https://img.shields.io/badge/王晓蕾-党支部书记充当卜一保护伞-pink)    
+![1](https://img.shields.io/badge/21计算机修雪玉-灌水论文、特殊交易、虚假成绩-blue)  ![1](https://img.shields.io/badge/20电信工集体舞弊-修改成绩单-blue) ![1](https://img.shields.io/badge/20集成电路集体舞弊-以宿舍为单位作弊-blue) ![1](https://img.shields.io/badge/土木学院刘高亮-特意造神-blue) ![1](https://img.shields.io/badge/22计算机王腾昊-认干爹干妈拿高分的典型-blue) ![1](https://img.shields.io/badge/电创实验室杨兴明-贪污互联网加经费、骗取项目-blue) ![1](https://img.shields.io/badge/合工大挑战杯、互联网加集体造假-挪用基金项目、研究生论文专利申报本科生组-blue) ![1](https://img.shields.io/badge/谷雨-S2AC黑历史-blue) ![1](https://img.shields.io/badge/陈田-系统结构-blue) ![1](https://img.shields.io/badge/黄安然-均分不到80发表AAAI一作-blue) ![1](https://img.shields.io/badge/刘敏睿&姚骏&修雪玉-出轨隐瞒灌水挂名-blue) ![1](https://img.shields.io/badge/薛原&修雪玉-第一届大学生职业规划大赛-pink) ![1](https://img.shields.io/badge/薛原-辱骂自杀学生家长-pink)  ![1](https://img.shields.io/badge/夏怀琪-数据结构作弊完在宿舍炫耀-pink)    ![1](https://img.shields.io/badge/王晓蕾-党支部书记充当卜一保护伞-pink)    ![1](https://img.shields.io/badge/卢泽洵-四种成绩单计算方法造假成绩单-pink)    
+
+
+![1](https://img.shields.io/badge/三下乡-公款旅游-red)  ![1](https://img.shields.io/badge/团委书记跳楼-2011-red)  ![1](https://img.shields.io/badge/副校长举报校长-2016-red)  ![1](https://img.shields.io/badge/志愿时长-利用关系盖章认定-red) ![1](https://img.shields.io/badge/张启民-虚假的合工大科技标兵-red) ![1](https://img.shields.io/badge/原新博、阳永琳、张爽-特殊交易-red)  
+
 
 
 (点击下方三角展开目录快速查找)
@@ -20,7 +26,7 @@
 - [2. 举报对象基本信息](#2-举报对象基本信息)
   - [作弊、造假、论文抄袭等被举报学生基本信息](#作弊造假论文抄袭等被举报学生基本信息)
 - [3. 作弊途径(仅统计封神榜中记录在案的行为)](#3-作弊途径仅统计封神榜中记录在案的行为)
-- [4. 举报对象信息一览表](#4-举报对象信息一览表)
+- [4. 部分典型举报对象特别通报](#4-部分典型举报对象特别通报)
 - [5. 投稿：嵌入式系统原理 考试事件:6.3下午2：00-4：00(投稿于下午两点半，仍在考试期间)](#5-投稿嵌入式系统原理-考试事件63下午200-400投稿于下午两点半仍在考试期间)
 - [6. 夏令营期间置顶及使用说明：①基础信息：学号、姓名、夏令营申请身份证后四位 ②举报内容（请直接在本页面内搜索姓名）](#6-夏令营期间置顶及使用说明基础信息学号姓名夏令营申请身份证后四位-举报内容请直接在本页面内搜索姓名)
 - [7. 夏令营期间使用说明](#7-夏令营期间使用说明)
@@ -179,7 +185,7 @@
 **数学学院**
 | 入学年份 | 姓名  | 专业  |举报者专业|
 | --- | --- | --- | ---|
-|2021 |王永|车辆工程 ||
+|2021 |王永|  ||
 
 
 
@@ -273,8 +279,6 @@
 | 2021 | 饶鑫龙 | 计算机科学与技术 | |
 | 2021 | [刘敏睿]() | 计算机科学与技术 | |
 | 2021 | 董晓虎 | 计算机科学与技术 | |
-
-
 | 2021 | [郭宇童]() | 智能科学与技术 | |
 | 2021 | [姚骏]() | 智能科学与技术 |智能科学与技术 |
 | 2021 | [檀仁宇]() | 智能科学与技术 |智能科学与技术 |
@@ -353,8 +357,6 @@
 | 2022 | [章杰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(3).md) | 食品转机械 |匿名|
 
 
-![1](https://img.shields.io/badge/三下乡-公款旅游-red)  ![1](https://img.shields.io/badge/团委书记跳楼-2011-red)  ![1](https://img.shields.io/badge/副校长举报校长-2016-red)  ![1](https://img.shields.io/badge/志愿时长-利用关系盖章认定-red) ![1](https://img.shields.io/badge/张启民-虚假的合工大科技标兵-red) ![1](https://img.shields.io/badge/原新博、阳永琳、张爽-特殊交易-red)  
-
 
 
 # 3. 作弊途径(仅统计封神榜中记录在案的行为)
@@ -382,7 +384,7 @@
 
 
 
-# 4. [举报对象信息一览表](#3-基本信息)
+# 4. [部分典型举报对象特别通报](#3-基本信息)
 
 安徽省互联网违法和不良信息举报平台反馈合肥工业大学计算机学院有人举报诬陷、恶意抹黑本平台发布的内容都是虚构，特此通报嘴脸
 
