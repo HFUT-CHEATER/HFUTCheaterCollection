@@ -1,7 +1,8 @@
-# 置顶：明礼诚信，正风考纪？实施办法还有问题！！！！
+# 置顶：明礼诚信，正风考纪？实施办法还有问题！！不应该让他们自行入座
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606152411.png)
 
 试问如果有人提前商量好根据相应调整方法提前安排好，之后不是照样组团作弊？这种建议办法根本没有意义！
+我建议**每场考试随机生成座位号，按系统生成的座位号入座，再进行一次调换，而不是让他们自行入座**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)    ![GitHub last commit](https://img.shields.io/github/last-commit/HFUT-CHEATER/HFUTCheaterCollection)
 
