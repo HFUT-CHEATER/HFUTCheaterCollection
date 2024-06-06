@@ -1,81 +1,3 @@
-# 置顶：明礼诚信，正风考纪？实施办法还有问题！！不应该让他们自行入座，计算机与信息学院仍实施不到位
-
-出处：https://ci.hfut.edu.cn/info/1063/14885.htm
-
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606152411.png)
-
-试问如果有人提前商量好根据相应调整方法提前安排好，之后不是照样组团作弊？这种建议办法根本没有意义！
-我建议**每场考试随机生成座位号，按系统生成的座位号入座，再进行一次调换，而不是让他们自行入座**
-
-![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)    ![GitHub last commit](https://img.shields.io/github/last-commit/HFUT-CHEATER/HFUTCheaterCollection)
-
-
-# 1.关键词提示板 置顶：cheateronline文件夹内存有大量线上组织作弊证据，请自行翻阅
-
-
-![1](https://img.shields.io/badge/作弊学生基本信息-专业班级作弊事迹-red) ![1](https://img.shields.io/badge/行政包庇人员花名册-blue) ![1](https://img.shields.io/badge/大字报-不换思想就换人-green)  
-
-
-
-
-![1](https://img.shields.io/badge/%E5%8F%8D%E5%8D%8E%E4%BA%8B%E4%BB%B6-2024.4.27-blue) ![1](https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E7%BA%BF%E4%B8%8A%E4%BD%9C%E5%BC%8A-2024.6.3-blue) ![1](https://img.shields.io/badge/%E5%9B%BD%E5%A5%96%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6-2024.3.1-blue)
-
-![1](https://img.shields.io/badge/21计算机修雪玉-灌水论文、特殊交易、虚假成绩-blue)  ![1](https://img.shields.io/badge/20电信工集体舞弊-修改成绩单-blue) ![1](https://img.shields.io/badge/20集成电路集体舞弊-以宿舍为单位作弊-blue) ![1](https://img.shields.io/badge/土木学院刘高亮-特意造神-blue) ![1](https://img.shields.io/badge/22计算机王腾昊-认干爹干妈拿高分的典型-blue) ![1](https://img.shields.io/badge/电创实验室杨兴明-贪污互联网加经费、骗取项目-blue) ![1](https://img.shields.io/badge/合工大挑战杯、互联网加集体造假-挪用基金项目、研究生论文专利申报本科生组-blue) ![1](https://img.shields.io/badge/谷雨-S2AC黑历史-blue) ![1](https://img.shields.io/badge/陈田-系统结构-blue) ![1](https://img.shields.io/badge/黄安然-均分不到80发表AAAI一作-blue) ![1](https://img.shields.io/badge/刘敏睿&姚骏&修雪玉-出轨隐瞒灌水挂名-blue) ![1](https://img.shields.io/badge/薛原&修雪玉-第一届大学生职业规划大赛-pink) ![1](https://img.shields.io/badge/薛原-辱骂自杀学生家长-pink)  ![1](https://img.shields.io/badge/夏怀琪-数据结构作弊完在宿舍炫耀-pink)    ![1](https://img.shields.io/badge/王晓蕾-党支部书记充当卜一保护伞-pink)    ![1](https://img.shields.io/badge/卢泽洵-四种成绩单计算方法造假成绩单-pink)    
-
-
-![1](https://img.shields.io/badge/三下乡-公款旅游-red)  ![1](https://img.shields.io/badge/团委书记跳楼-2011-red)  ![1](https://img.shields.io/badge/副校长举报校长-2016-red)  ![1](https://img.shields.io/badge/志愿时长-利用关系盖章认定-red) ![1](https://img.shields.io/badge/张启民-虚假的合工大科技标兵-red) ![1](https://img.shields.io/badge/原新博、阳永琳、张爽-特殊交易-red)  
-
-
-![1](https://img.shields.io/badge/21集成电路-集体舞弊-red)  注：有关21级集成电路举报中称能保研的几乎没有不作弊的
-
-典型案例分析——马文智
-
-
-不同个体角度分析：
-
-21级集成电路那些能保研的人大部分在大二的verilog与FPGA考试在教室考试桌子的下面的那个桌台打小抄。然后他们每次考试都离奇的早去，比如下午2:00考一场考试，每次都会12:00前就去找一个靠墙的隐蔽的位置进行提前占座（这个作法上榜的孙涌川是一个典型，每次在考前路过考试教室，每一次他都搞这种熟悉的操作），而且他这个人特别喜欢伪装。
-
-整体角度上：微电子学院的这些学院，特别是集成电路专业的考试你认真复习远不如做一张往年真题有用，这是因为微电子学院的这些课任老师完全不负责任，而且因为之前那几届此次作弊，每场考试的卷子都被拍到外面进行线上作弊，导致历年卷子的题目泄露了出去，而每年的卷子几乎都是原题，所以这些人只会从线上作弊的人手中买到真题拿高分，毫无学术能力，更没有研究生的素养。 再谈这个占座问题，大二有的考试有人直接提前两三天就去占座了，考试那天到考场两边基本被占满，没有作弊想法的人只能坐中间。
-
-在看到这里发布的内容和我了解的相一致的时候我看到学校官网的这个“学在工大”实在是难以接受。
-
----
-
-# 投稿：钓鱼合工大电气创新班伪神四人帮（章贝兆、王惠群、丁兴） 小号串子：曹金柯/乔雨阳
-
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606230814.png)
-
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606230831.png)
-
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606230848.png)
-
-您好，相信您已经看过聊天记录了，下面我仔细说说钓鱼的几个阶段
-
-准备阶段：刻意制造矛盾——21电创实际人数，用来吸引他们的反驳
-
-实施阶段：详情见PDF总结
-
-① 曹金柯或者乔雨阳（二级小号） ②章贝兆叫嚣 ③王慧群、丁兴躲在幕后
-
-总结阶段：如下所示（请hfutcheater团队耐心等待，需要分人分别发送）
-
-1.王慧群、丁兴
-
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606225231.png)
-
-
-
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606225259.png)
-
-
-2. 乔雨阳
-
-3. 曹金柯
-
-4. 章贝兆
----
-
-
 (点击下方三角展开目录快速查找)
 <details>
 <summary>目录</summary>
@@ -197,6 +119,85 @@
   - [19.30. 宣城校区电气学院多次包庇作弊、辅导员挪用经费](#1930-宣城校区电气学院多次包庇作弊辅导员挪用经费)
 
 </details>
+
+# 置顶：明礼诚信，正风考纪？实施办法还有问题！！不应该让他们自行入座，计算机与信息学院仍实施不到位
+
+出处：https://ci.hfut.edu.cn/info/1063/14885.htm
+
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606152411.png)
+
+试问如果有人提前商量好根据相应调整方法提前安排好，之后不是照样组团作弊？这种建议办法根本没有意义！
+我建议**每场考试随机生成座位号，按系统生成的座位号入座，再进行一次调换，而不是让他们自行入座**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)    ![GitHub last commit](https://img.shields.io/github/last-commit/HFUT-CHEATER/HFUTCheaterCollection)
+
+
+# 1.关键词提示板 置顶：cheateronline文件夹内存有大量线上组织作弊证据，请自行翻阅
+
+
+![1](https://img.shields.io/badge/作弊学生基本信息-专业班级作弊事迹-red) ![1](https://img.shields.io/badge/行政包庇人员花名册-blue) ![1](https://img.shields.io/badge/大字报-不换思想就换人-green)  
+
+
+
+
+![1](https://img.shields.io/badge/%E5%8F%8D%E5%8D%8E%E4%BA%8B%E4%BB%B6-2024.4.27-blue) ![1](https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E7%BA%BF%E4%B8%8A%E4%BD%9C%E5%BC%8A-2024.6.3-blue) ![1](https://img.shields.io/badge/%E5%9B%BD%E5%A5%96%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6-2024.3.1-blue)
+
+![1](https://img.shields.io/badge/21计算机修雪玉-灌水论文、特殊交易、虚假成绩-blue)  ![1](https://img.shields.io/badge/20电信工集体舞弊-修改成绩单-blue) ![1](https://img.shields.io/badge/20集成电路集体舞弊-以宿舍为单位作弊-blue) ![1](https://img.shields.io/badge/土木学院刘高亮-特意造神-blue) ![1](https://img.shields.io/badge/22计算机王腾昊-认干爹干妈拿高分的典型-blue) ![1](https://img.shields.io/badge/电创实验室杨兴明-贪污互联网加经费、骗取项目-blue) ![1](https://img.shields.io/badge/合工大挑战杯、互联网加集体造假-挪用基金项目、研究生论文专利申报本科生组-blue) ![1](https://img.shields.io/badge/谷雨-S2AC黑历史-blue) ![1](https://img.shields.io/badge/陈田-系统结构-blue) ![1](https://img.shields.io/badge/黄安然-均分不到80发表AAAI一作-blue) ![1](https://img.shields.io/badge/刘敏睿&姚骏&修雪玉-出轨隐瞒灌水挂名-blue) ![1](https://img.shields.io/badge/薛原&修雪玉-第一届大学生职业规划大赛-pink) ![1](https://img.shields.io/badge/薛原-辱骂自杀学生家长-pink)  ![1](https://img.shields.io/badge/夏怀琪-数据结构作弊完在宿舍炫耀-pink)    ![1](https://img.shields.io/badge/王晓蕾-党支部书记充当卜一保护伞-pink)    ![1](https://img.shields.io/badge/卢泽洵-四种成绩单计算方法造假成绩单-pink)    
+
+
+![1](https://img.shields.io/badge/三下乡-公款旅游-red)  ![1](https://img.shields.io/badge/团委书记跳楼-2011-red)  ![1](https://img.shields.io/badge/副校长举报校长-2016-red)  ![1](https://img.shields.io/badge/志愿时长-利用关系盖章认定-red) ![1](https://img.shields.io/badge/张启民-虚假的合工大科技标兵-red) ![1](https://img.shields.io/badge/原新博、阳永琳、张爽-特殊交易-red)  
+
+
+![1](https://img.shields.io/badge/21集成电路-集体舞弊-red)  注：有关21级集成电路举报中称能保研的几乎没有不作弊的
+
+典型案例分析——马文智
+
+
+不同个体角度分析：
+
+21级集成电路那些能保研的人大部分在大二的verilog与FPGA考试在教室考试桌子的下面的那个桌台打小抄。然后他们每次考试都离奇的早去，比如下午2:00考一场考试，每次都会12:00前就去找一个靠墙的隐蔽的位置进行提前占座（这个作法上榜的孙涌川是一个典型，每次在考前路过考试教室，每一次他都搞这种熟悉的操作），而且他这个人特别喜欢伪装。
+
+整体角度上：微电子学院的这些学院，特别是集成电路专业的考试你认真复习远不如做一张往年真题有用，这是因为微电子学院的这些课任老师完全不负责任，而且因为之前那几届此次作弊，每场考试的卷子都被拍到外面进行线上作弊，导致历年卷子的题目泄露了出去，而每年的卷子几乎都是原题，所以这些人只会从线上作弊的人手中买到真题拿高分，毫无学术能力，更没有研究生的素养。 再谈这个占座问题，大二有的考试有人直接提前两三天就去占座了，考试那天到考场两边基本被占满，没有作弊想法的人只能坐中间。
+
+在看到这里发布的内容和我了解的相一致的时候我看到学校官网的这个“学在工大”实在是难以接受。
+
+---
+
+# 投稿：钓鱼合工大电气创新班伪神四人帮（章贝兆、王惠群、丁兴） 小号串子：曹金柯/乔雨阳
+
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606230814.png)
+
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606230831.png)
+
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606230848.png)
+
+您好，相信您已经看过聊天记录了，下面我仔细说说钓鱼的几个阶段
+
+准备阶段：刻意制造矛盾——21电创实际人数，用来吸引他们的反驳
+
+实施阶段：详情见PDF总结
+
+① 曹金柯或者乔雨阳（二级小号） ②章贝兆叫嚣 ③王慧群、丁兴躲在幕后
+
+总结阶段：如下所示（请hfutcheater团队耐心等待，需要分人分别发送）
+
+1.王慧群、丁兴
+
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606225231.png)
+
+
+
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606225259.png)
+
+
+2. 乔雨阳
+
+3. 曹金柯
+
+4. 章贝兆
+---
+
+
 
  
  
