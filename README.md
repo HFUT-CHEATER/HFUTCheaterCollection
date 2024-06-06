@@ -1,4 +1,4 @@
-(点击下方三角展开目录快速查找)
+(点击下方三角展开目录快速查找) 压缩版pdf文件：https://github.com/HFUT-CHEATER/HFUTCheaterCollection/releases/download/Summer/quick.pdf
 <details>
 <summary>目录</summary>
 
