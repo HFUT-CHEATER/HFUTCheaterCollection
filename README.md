@@ -1,3 +1,8 @@
+# 置顶：明礼诚信，正风考纪？实施办法还有问题！！！！
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606152411.png)
+
+试问如果有人提前商量好根据相应调整方法提前安排好，之后不是照样组团作弊？这种建议办法根本没有意义！
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)    ![GitHub last commit](https://img.shields.io/github/last-commit/HFUT-CHEATER/HFUTCheaterCollection)
 
 
@@ -33,6 +38,20 @@
 ---
 
 # 投稿：钓鱼合工大电气创新班伪神四人帮（章贝兆、曹金柯、王惠群、丁兴）
+
+您好，相信您已经看过聊天记录了，下面我仔细说说钓鱼的几个阶段
+
+准备阶段：刻意制造矛盾——21电创实际人数，用来吸引他们的反驳
+
+实施阶段：详情见PDF总结
+
+① 曹金柯的二级小号 ②章贝兆叫嚣 ③王慧群、丁兴躲在幕后
+
+总结阶段：如下所示
+
+
+
+
 
 
 ---
