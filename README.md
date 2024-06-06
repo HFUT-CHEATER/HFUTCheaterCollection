@@ -1,4 +1,7 @@
 # 置顶：明礼诚信，正风考纪？实施办法还有问题！！不应该让他们自行入座
+
+出处：https://ci.hfut.edu.cn/info/1063/14885.htm
+
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606152411.png)
 
 试问如果有人提前商量好根据相应调整方法提前安排好，之后不是照样组团作弊？这种建议办法根本没有意义！
