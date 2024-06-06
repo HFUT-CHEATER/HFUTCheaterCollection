@@ -19,8 +19,10 @@
 
 ![1](https://img.shields.io/badge/21集成电路-集体舞弊-red)  注：有关21级集成电路举报中称能保研的几乎没有不作弊的
 
+典型案例分析——马文智
 
-个体角度分析：
+
+不同个体角度分析：
 
 21级集成电路那些能保研的人全都在大二的verilog与FPGA考试在教室考试桌子的下面的那个桌台打小抄。然后他们每次考试都离奇的早去，比如下午2:00考一场考试，每次都会12:00前就去找一个靠墙的隐蔽的位置进行提前占座（这个作法上榜的孙涌川是一个典型，每次在考前路过考试教室，每一次他都搞这种熟悉的操作），而且他这个人特别喜欢伪装。
 
@@ -264,6 +266,7 @@
 | 2020 | [李博翰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/3(1).md)| 集成电路 | 集成电路 |
 | 2020 | [杨康](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(13).md) | 集成电路 | 集成电路 |
 | 2021 | [卜一](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(14).md) | 电子科学与技术 |电子科学与技术 |
+| 2021 | 马文智 | 集成电路 ||
 | 2021 | 孙涌钏 | 集成电路 ||
 | 2021 |  武广宏 | 集成电路 ||
 | 2021 |  孙瑜旸 | 集成电路 ||
