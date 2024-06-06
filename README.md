@@ -43,6 +43,12 @@
 
 # 投稿：钓鱼合工大电气创新班伪神四人帮（章贝兆、王惠群、丁兴） 小号串子：曹金柯/乔雨阳
 
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606230814.png)
+
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606230831.png)
+
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606230848.png)
+
 您好，相信您已经看过聊天记录了，下面我仔细说说钓鱼的几个阶段
 
 准备阶段：刻意制造矛盾——21电创实际人数，用来吸引他们的反驳
