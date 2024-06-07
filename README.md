@@ -1,33 +1,18 @@
+# （灰色幽默6.6发布规定，6.7计算机组成原理11人作弊）
+
+**本次**请陈田自己解释
+
+置顶：明礼诚信，正风考纪？实施办法还有问题！！不应该让他们自行入座，计算机与信息学院仍实施不到位
+
+出处：https://ci.hfut.edu.cn/info/1063/14885.htm
+
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606152411.png)
+
+试问如果有人提前商量好根据相应调整方法提前安排好，之后不是照样组团作弊？这种建议办法根本没有意义！
+我建议**每场考试随机生成座位号，按系统生成的座位号入座，再进行一次调换，而不是让他们自行入座**
+ 
+ 
  [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/badge/PDF-点此下载-blue)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/releases/download/Summer/quick.pdf)       ![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)    ![GitHub last commit](https://img.shields.io/github/last-commit/HFUT-CHEATER/HFUTCheaterCollection)
-
-# 数学押题
-
-组合数学（18分）纸牌、麻将 or 概率论知识下放
-
-立体几何考折叠问题
-
-导数考拉格朗日和曲率
-
-# 高考期间押题战果（语文：69分）：
-
-押题刘克庄（诗歌9分）
-互联网（60分）
-
-王磐《朝天子·咏喇叭》
-
-喇叭，唢呐，曲儿小腔儿大。官船来往乱如麻，全仗你抬声价。
-
-军听了军愁，民听了民怕。哪里去辨甚么真共假？
-
-眼见的吹翻了这家，吹伤了那家，只吹的水尽鹅飞罢！
-
----
-
-贺新郎·刘克庄
-
-国脉微如缕。问长缨何时入手，缚将戎主？未必人间无好汉，谁与宽些尺度？试看取当年韩五。岂有谷城公付授，也不干曾遇骊山母。谈笑起，两河路。
-
-少时棋柝曾联句。叹而今登楼揽镜，事机频误。闻说北风吹面急，边上冲梯屡舞。君莫道投鞭虚语，自古一贤能制难，有金汤便可无张许？快投笔，莫题柱。
 
 
 (点击下方三角展开目录快速查找) 压缩版pdf文件：  
@@ -152,14 +137,7 @@
 
 </details>
 
-# 置顶：明礼诚信，正风考纪？实施办法还有问题！！不应该让他们自行入座，计算机与信息学院仍实施不到位
 
-出处：https://ci.hfut.edu.cn/info/1063/14885.htm
-
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240606152411.png)
-
-试问如果有人提前商量好根据相应调整方法提前安排好，之后不是照样组团作弊？这种建议办法根本没有意义！
-我建议**每场考试随机生成座位号，按系统生成的座位号入座，再进行一次调换，而不是让他们自行入座**
 
 
 # 1.关键词提示板 置顶：cheateronline文件夹内存有大量线上组织作弊证据，请自行翻阅
