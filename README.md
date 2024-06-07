@@ -5,6 +5,9 @@
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240607192058.png)
 
 
+作弊名单如下，请自己查阅监控取证
+
+
 置顶：明礼诚信，正风考纪？实施办法还有问题！！不应该让他们自行入座，计算机与信息学院仍实施不到位
 
 出处：https://ci.hfut.edu.cn/info/1063/14885.htm
