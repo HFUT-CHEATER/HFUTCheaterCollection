@@ -1,5 +1,9 @@
  [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/badge/PDF-点此下载-blue)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/releases/download/Summer/quick.pdf)       ![GitHub Repo stars](https://img.shields.io/github/stars/HFUT-CHEATER/HFUTCheaterCollection)    [![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/HFUT-CHEATER/HFUTCheaterCollection/Summer/total?label=%E7%82%B9%E6%AD%A4%E4%B8%8B%E8%BD%BD)](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/archive/refs/tags/Summer.zip)    ![GitHub last commit](https://img.shields.io/github/last-commit/HFUT-CHEATER/HFUTCheaterCollection)
 
+# 高考期间押题战果（语文：69分）：
+
+押题刘克庄（诗歌9分）
+互联网（60分）
 
 王磐《朝天子·咏喇叭》
 
