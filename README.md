@@ -1,4 +1,4 @@
-# 作弊信息大数据
+# 作弊生源省份大数据
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/ddda50f21c39da188cbe411abb9c16b.jpg)
 # 投稿：有关20、21电气学院电创乱象（主要有关孙菲双、章贝兆）
 
