@@ -1,5 +1,8 @@
 # 作弊生源省份大数据
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/ddda50f21c39da188cbe411abb9c16b.jpg)
+
+特征：以河南省郑州市为中心扩散到河南、安徽全省、苏北、山东部分地区
+
 # 投稿：有关20、21电气学院电创乱象（主要有关孙菲双、章贝兆）
 
 1. 有关您发表的肖献强有关内容的补充
