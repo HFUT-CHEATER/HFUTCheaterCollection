@@ -105,6 +105,7 @@
 |2021|谭惟尹 |电子信息工程||
 | 2021 | [徐子航](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(7).md) | 计算机科学与技术 |计算机科学与技术 |
 | 2021 | 修雪玉 | 计算机科学与技术 | |
+| 2021 | 姚科 | 计算机科学与技术 | |
 | 2021 | [黎倩](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(8).md) | 计算机科学与技术 |通信工程 |
 | 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(9).md) | 计算机科学与技术 | 通信工程 |
 | 2021 | [丁元博](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(10).md) | 计算机科学与技术 |通信工程 |
