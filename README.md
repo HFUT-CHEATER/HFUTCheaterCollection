@@ -45,7 +45,6 @@
 | 2020 | [卞子豪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(1).md) | 市场营销 |未取得联系 |
 | 2020 | [刘嘉欣](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(2).md) | 市场营销 |未取得联系 |
 | 2021 | 罗怡晨 | 工商管理 | |
-| 2021 | 陈镜宇 |  | |
 | 2021 |陈荣昇 | 信息管理与信息系统创新实验班 | |
 | 2021 | [冯梦圆](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(4).md) | 信息管理与信息系统 |信息管理与信息系统 |
 | 2021 | [蔡影](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(3).md) | 信息管理与信息系统 | 信息管理与信息系统 |
@@ -54,7 +53,6 @@
 | 2021 | [赵翊辰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
 | 2021 | [王芸馨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
 | 2021 | [戴天程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(5).md) | 信息管理与信息系统 | 信息管理与信息系统 |
-| 2021 | 焦欣茹 | 信息管理与信息系统 |  |
 |2021|[朱翔宇]()|
 |2021|[闻一玮]()|
 | 2022 | [温绍靖]() |  |  |
@@ -101,8 +99,6 @@
 |2020|张至研|电子信息工程|
 | 2020 | [李新茹]() | 电子信息工程 |
 | 2020 | [张静雅]() | 电子信息工程 |
-| 2021 | 武玉婷 | 电子信息工程 | |
-|2021|王祉翾 |电子信息工程||
 |2021|谭惟尹 |电子信息工程||
 | 2021 | [徐子航](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(7).md) | 计算机科学与技术 |计算机科学与技术 |
 | 2021 | 修雪玉 | 计算机科学与技术 | |
