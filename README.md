@@ -1,5 +1,7 @@
 # 从内容和原创性上对比郭丹、唐申庚之前所谓的手语翻译、识别综述和修雪玉的灌水文
 
+唐申庚 github:https://github.com/tangshengeng  https://tangshengeng.github.io/   已存档留存证据
+
 1.
 手语识别、翻译与生成综述
 Review of Sign Language Recognition, Translation and Generation
@@ -7,6 +9,9 @@ Review of Sign Language Recognition, Translation and Generation
 计算机科学 (Computer Science), 2021
 
 2.唐申庚, 修雪玉, 郭丹, 洪日昌, "基于智能生成技术的手语数字人发展现状与趋势", 人工智能, 2023, 4: 20-31 《黑龙江大学自然科学学报》
+
+
+
 
 # 致教育部、科学技术部：举报合肥工业大学纪委、团委党组、学术委员会
 
