@@ -1,3 +1,5 @@
+# 致中南大学自动化学院的一封关于宗兴泽的举报信
+
 # 从内容和原创性上对比郭丹、唐申庚之前所谓的手语翻译、识别综述和修雪玉的灌水文
 
 唐申庚 github:https://github.com/tangshengeng  https://tangshengeng.github.io/   已存档留存证据
