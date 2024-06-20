@@ -8,8 +8,7 @@
 
 唐申庚 github:https://github.com/tangshengeng  https://tangshengeng.github.io/   已存档留存证据
 
-1.
-手语识别、翻译与生成综述
+1.手语识别、翻译与生成综述
 Review of Sign Language Recognition, Translation and Generation
 郭丹, 唐申庚, 洪日昌, 汪萌
 计算机科学 (Computer Science), 2021
@@ -72,9 +71,7 @@ Review of Sign Language Recognition, Translation and Generation
 
 薛原 女，中共党员 合肥工业大学计算机与信息学院辅导员
 
-卞子豪
-
-
+刘世国 男，中共党员 合肥工业大学计算机与信息学院辅导员
 
 修雪玉 女 合肥工业大学计算机与信息学院计算机科学与技术21-1班 计算机科学与技术本科生党支部
 
