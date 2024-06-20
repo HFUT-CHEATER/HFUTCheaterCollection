@@ -25,6 +25,36 @@ Review of Sign Language Recognition, Translation and Generation
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240620123650.png)
 
 
+1.1 参考文献
+
+
+修文：
+
+Journal Find 4
+[1]为了听不到的你——世界杯首次数智手语解说技术详解[J]. 陈望都,林晓青.  影视制作. 2023(01)
+[2]人工智能在新闻报道中的突破、传播和价值——以总台央视新闻AI手语主播为例[J]. 郑弘,丰树琪.  传媒. 2022(20)
+[3]虚拟数字人发展的现状、关键与未来[J]. 郭全中.  新闻与写作. 2022(07)
+[4]手语识别、翻译与生成综述[J]. 郭丹,唐申庚,洪日昌,汪萌.  计算机科学. 2021(03)
+
+Thesis Find 1
+[1]基于深度学习的手语翻译与生成技术研究[D]. 唐申庚.合肥工业大学 2022
+
+Newspaper Find 1
+[1]多模态话语决策模型让机器人学会“捧哏”[N]. 张佳星.  科技日报. 2023 (006)
+
+International journals Find 12
+
+[1]ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns [J] . Sallam Malik.  Healthcare . 2023 (6)
+[2]Skeleton-based Chinese sign language recognition and generation for bidirectional communication between deaf and hearing people [J] . Qinkun Xiao,Minying Qin,Yuting Yin.  Neural Networks . 2020 (C)
+[3]Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks [J] . Stephanie Stoll,Necati Cihan Camgoz,Simon Hadfield,Richard Bowden.  International Journal of Computer Vision . 2020 (prep)
+[4]TransMoMO: Invariance-driven unsupervised video motion retargeting [J] . Yang Z.,Zhu W.,Wu W.,Qian C.,Zhou Q.,Zhou B.,Loy C.C..  Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition . 2020
+[5]StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks. [J] . Zhang Han,Xu Tao,Li Hongsheng,Zhang Shaoting,Wang Xiaogang,Huang Xiaolei,Metaxas Dimitris N.  IEEE transactions on pattern analysis and machine intelligence . 2019 (8)
+[6]A Survey of Deep Learning-Based Object Detection. [J] . Licheng Jiao,Fan Zhang,Fang Liu 0001,Shuyuan Yang,Lingling Li,Zhixi Feng,Rong Qu.  IEEE Access . 2019
+[7]Deep Gesture Video Generation with Learning on Regions of Interest [J] . Cui Runpeng,Cao Zhong,Pan Weishen,Zhang Changshui,Wang Jianqiang.  IEEE Transactions on Multimedia . 2019
+[8]Feature subset selection in large dimensionality domains [J] . Iffat A. Gheyas,Leslie S. Smith.  Pattern Recognition . 2009 (1)
+[9]VANESSA – A system for communication between Deaf andhearing people [J] . Christian Berger-Vachon,Daniel R. Mestre,Alain Pruski,J.R.W. Glauert,R. Elliott,S.J. Cox,J. Tryggvason,M. Sheard.  Technology and Disability . 2006 (4)
+[10]Newell and Simon’s Logic Theorist: Historical Background and Impact on Cognitive Modeling [J] . Leo Gugerty.  Proceedings of the Human Factors and Ergonomics Society Annual Meeting . 2006 (9)
+
 （二）文章水平和百度百科相类似
 
 （三）存在严重错误,明显不懂几类神经模型
