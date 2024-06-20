@@ -19,7 +19,9 @@ Review of Sign Language Recognition, Translation and Generation
 下载：https://github.com/HFUT-CHEATER/HFUTCheaterCollection/releases/download/Summer2/paper_2.pdf
 
 ---
-（一）文章的参考文献雷同
+（一）文章的参考文献、研究方式、结论雷同
+
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240620123650.png)
 
 
 # 致教育部、科学技术部：举报合肥工业大学纪委、团委党组、学术委员会
