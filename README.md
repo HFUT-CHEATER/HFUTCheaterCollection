@@ -24,6 +24,10 @@ Review of Sign Language Recognition, Translation and Generation
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240620123650.png)
 
 
+（二）文章水平和百度百科相类似
+
+（三）存在严重错误
+
 # 致教育部、科学技术部：举报合肥工业大学纪委、团委党组、学术委员会
 
 # 致清华大学、中国科学技术大学、南京大学、浙江大学、复旦大学、西安交通大学、哈尔滨工业大学、北京航天航空大学、华中科技大学、西北工业大学、中国科学院、中国科学院大学、上海科技大学、南方科技大学的一封关于合肥工业大学推免生的举报信
