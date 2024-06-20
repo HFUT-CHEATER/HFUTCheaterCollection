@@ -26,7 +26,7 @@ Review of Sign Language Recognition, Translation and Generation
 
 （二）文章水平和百度百科相类似
 
-（三）存在严重错误
+（三）存在严重错误,明显不懂几类神经模型
 
 # 致教育部、科学技术部：举报合肥工业大学纪委、团委党组、学术委员会
 
