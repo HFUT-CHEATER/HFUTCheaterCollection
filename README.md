@@ -27,6 +27,8 @@ Review of Sign Language Recognition, Translation and Generation
 
 下载：https://github.com/HFUT-CHEATER/HFUTCheaterCollection/releases/download/Summer2/paper_2.pdf
 
+4.唐申庚；修雪玉；郭丹；董晓虎；姚骏；谢伟豪； 跨语言手语翻译系统 V1.0，2023SR1107827，原始取得，全部权利，2023-09-20.
+
 ---
 （一）文章的参考文献、研究方式、结论雷同
 
