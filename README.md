@@ -727,13 +727,11 @@ Review of Sign Language Recognition, Translation and Generation
 | 入学年份 | 姓名  | 专业  |举报者专业|
 | --- | --- | --- | ---|
 |2019| 付康| 大数据管理|
-|2020|郝戌京||
 |2020|竺乐祺|信息管理与信息系统|
 | 2020 | 阳永琳 | 工商管理 |工商管理|
 | 2020 | [卞子豪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(1).md) | 市场营销 |未取得联系 |
 | 2020 | [刘嘉欣](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(2).md) | 市场营销 |未取得联系 |
 | 2021 | 罗怡晨 | 工商管理 | |
-| 2021 | 陈镜宇 |  | |
 | 2021 |陈荣昇 | 信息管理与信息系统创新实验班 | |
 | 2021 | [冯梦圆](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(4).md) | 信息管理与信息系统 |信息管理与信息系统 |
 | 2021 | [蔡影](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(3).md) | 信息管理与信息系统 | 信息管理与信息系统 |
@@ -742,7 +740,6 @@ Review of Sign Language Recognition, Translation and Generation
 | 2021 | [赵翊辰](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
 | 2021 | [王芸馨](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(2).md) | 信息管理与信息系统 |信息管理与信息系统 |
 | 2021 | [戴天程](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/2(5).md) | 信息管理与信息系统 | 信息管理与信息系统 |
-| 2021 | 焦欣茹 | 信息管理与信息系统 |  |
 |2021|[朱翔宇]()|
 |2021|[闻一玮]()|
 | 2022 | [温绍靖]() |  |  |
@@ -789,17 +786,17 @@ Review of Sign Language Recognition, Translation and Generation
 |2020|张至研|电子信息工程|
 | 2020 | [李新茹]() | 电子信息工程 |
 | 2020 | [张静雅]() | 电子信息工程 |
-| 2021 | 武玉婷 | 电子信息工程 | |
-|2021|王祉翾 |电子信息工程||
 |2021|谭惟尹 |电子信息工程||
+| 2021 | 李婉盈 | 通信工程 | |
 | 2021 | [徐子航](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(7).md) | 计算机科学与技术 |计算机科学与技术 |
 | 2021 | 修雪玉 | 计算机科学与技术 | |
+| 2021 | 汪智浩 | 计算机科学与技术 | |
+| 2021 | 姚科 | 计算机科学与技术 | |
 | 2021 | [黎倩](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(8).md) | 计算机科学与技术 |通信工程 |
 | 2021 | [夏怀琪](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(9).md) | 计算机科学与技术 | 通信工程 |
 | 2021 | [丁元博](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/blob/master/alist/1(10).md) | 计算机科学与技术 |通信工程 |
 | 2021 | 饶鑫龙 | 计算机科学与技术 | |
 | 2021 | [刘敏睿]() | 计算机科学与技术 | |
-| 2021 | 董晓虎 | 计算机科学与技术 | |
 | 2021 | [郭宇童]() | 智能科学与技术 | |
 | 2021 | [姚骏]() | 智能科学与技术 |智能科学与技术 |
 | 2021 | [檀仁宇]() | 智能科学与技术 |智能科学与技术 |
@@ -818,7 +815,6 @@ Review of Sign Language Recognition, Translation and Generation
 **电气学院**
 | 入学年份 | 姓名  | 专业  |举报者专业|
 | --- | --- | --- | ---|
-| 2020 |[曾宪楷]()| 电气工程及其自动化 |电气工程及其自动化 |
 | 2020 |[冯睿]()| 电气工程及其自动化 |电气工程及其自动化 |
 | 2020 |[甘源]()| 电气工程及其自动化 |电气工程及其自动化 |
 | 2020 |[顾涵江]()| 电气工程及其自动化 |电气工程及其自动化 |
