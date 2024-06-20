@@ -2,7 +2,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240620093204.png)
 
-# 从内容和原创性上对比郭丹、唐申庚之前所谓的手语翻译、识别综述和修雪玉的灌水文
+# 从内容和原创性上对比郭丹、唐申庚之前所谓的手语翻译、识别综述和修雪玉的灌水五流学报
 
 唐申庚 github:https://github.com/tangshengeng  https://tangshengeng.github.io/   已存档留存证据
 
