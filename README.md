@@ -12,7 +12,11 @@ Review of Sign Language Recognition, Translation and Generation
 郭丹, 唐申庚, 洪日昌, 汪萌
 计算机科学 (Computer Science), 2021
 
+下载：https://github.com/HFUT-CHEATER/HFUTCheaterCollection/releases/download/Summer2/paper.pdf
+
 2.唐申庚, 修雪玉, 郭丹, 洪日昌, "基于智能生成技术的手语数字人发展现状与趋势", 人工智能, 2023, 4: 20-31 《黑龙江大学自然科学学报》
+
+下载：https://github.com/HFUT-CHEATER/HFUTCheaterCollection/releases/download/Summer2/paper_2.pdf
 
 ---
 （一）文章的参考文献雷同
