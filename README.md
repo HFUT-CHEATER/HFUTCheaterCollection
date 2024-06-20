@@ -25,7 +25,7 @@ Review of Sign Language Recognition, Translation and Generation
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240620123650.png)
 
 
-1.1 参考文献
+1.1 参考文献（以下用修文、郭文简记）
 
 
 修文：
