@@ -1,3 +1,5 @@
+# 合肥工业大学2024年“十恶”大学生
+
 # 致中南大学自动化学院的一封关于宗兴泽的举报信
 
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240620093204.png)
