@@ -15,7 +15,9 @@ Review of Sign Language Recognition, Translation and Generation
 
 下载：https://github.com/HFUT-CHEATER/HFUTCheaterCollection/releases/download/Summer2/paper.pdf
 
-2.唐申庚, 修雪玉, 郭丹, 洪日昌, "基于智能生成技术的手语数字人发展现状与趋势", 人工智能, 2023, 4: 20-31 《黑龙江大学自然科学学报》
+2.基于深度学习的手语翻译与生成技术研究[D]. 唐申庚.合肥工业大学 2022
+
+3.唐申庚, 修雪玉, 郭丹, 洪日昌, "基于智能生成技术的手语数字人发展现状与趋势", 人工智能, 2023, 4: 20-31 《黑龙江大学自然科学学报》
 
 下载：https://github.com/HFUT-CHEATER/HFUTCheaterCollection/releases/download/Summer2/paper_2.pdf
 
