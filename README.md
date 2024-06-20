@@ -49,6 +49,8 @@ Review of Sign Language Recognition, Translation and Generation
 
 张海林  男，中共党员 学院二级纪委  合肥工业大学计算机与信息学院党委副书记兼纪委书记
 
+刘开阳  女，中共党员 合肥工业大学电气学院团委书记
+
 朱文拿 女，中共党员 合肥工业大学微电子学院团委书记
 
 田文祥  男，中共党员 合肥工业大学管理学院团委书记
