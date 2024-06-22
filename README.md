@@ -1,3 +1,7 @@
+# 致人大高瓴的一封关于修雪玉的举报信
+
+修雪玉报名号 202503649
+
 ![1](https://img.shields.io/badge/作弊学生基本信息-专业班级作弊事迹-red) ![1](https://img.shields.io/badge/行政包庇人员花名册-blue) ![1](https://img.shields.io/badge/大字报-不换思想就换人-green)  
 
 
