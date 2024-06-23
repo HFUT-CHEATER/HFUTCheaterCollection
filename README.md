@@ -5,6 +5,11 @@
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/160773353/f147b8e2-1305-4b68-aa0f-6f58106255c0)
 
 
+王嘉祺简历
+
+
+---
+
 # 致人大高瓴的一封关于修雪玉的举报信
 
 修雪玉报名号 202503649
