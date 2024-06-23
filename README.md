@@ -4,6 +4,7 @@
 
 ![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/160773353/f147b8e2-1305-4b68-aa0f-6f58106255c0)
 
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240623125653.png)
 
 王嘉祺简历
 
@@ -21,7 +22,7 @@ QQ:813152217
 
 2022校级大创 基于Android平台的植物病害识别
 
-2023学年 三等奖学金
+2023学年 三等奖学金（靠大数据中心二课加了四课才拿到）
 
 文旅智行——基于知识图谱构建的智能文旅生态圈 互联网加校铜
 
