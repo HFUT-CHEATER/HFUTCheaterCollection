@@ -20,6 +20,8 @@ QQ:279298470
 
 bilibili:13626825377 uid:1695475381
 
+くもバンド（云乐队）：阿魄Aposile **GaK2I** darkboy 休斯 千笙 Crystal  https://www.bilibili.com/read/cv22702798/
+
 330283200210215435
 
 13626825377
