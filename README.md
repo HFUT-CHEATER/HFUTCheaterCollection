@@ -2,13 +2,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240624111000.png)
 
-# 王嘉祺同学您有什么意见
-
-奉化刚波宁撇子
-
-![image](https://github.com/HFUT-CHEATER/HFUTCheaterCollection/assets/160773353/f147b8e2-1305-4b68-aa0f-6f58106255c0)
-
-![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240623125653.png)
+# 王嘉祺同志简历播报
 
 王嘉祺简历
 
@@ -26,9 +20,9 @@ bilibili:13626825377 uid:1695475381
 
 くもバンド（云乐队）：阿魄Aposile **GaK2I** darkboy 休斯 千笙 Crystal  https://www.bilibili.com/read/cv22702798/
 
-330283200210215435
+330***2002***15435
 
-13626825377
+1362682**77
 
 软件学院 软件工程-21
 
@@ -42,7 +36,6 @@ bilibili:13626825377 uid:1695475381
 
 文旅智行——基于知识图谱构建的智能文旅生态圈 互联网加校铜
 
-你水平也就适合干个外包了，读了三年和乐子也没什么区别
 
 ---
 
