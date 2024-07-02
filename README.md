@@ -1,3 +1,5 @@
+![](https://cdn.jsdelivr.net/gh/AzzG-2ql7-9WTL/uuhk-kck0-F2GR@main/img/20240702092810.png)
+
 # 相关被举报人员夏令营入营统计
 
 1.修雪玉   人大高瓴
